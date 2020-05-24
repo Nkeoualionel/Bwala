@@ -1,0 +1,1304 @@
+<resources>
+    <string name="app_name">Bwala</string>
+
+    <string-array name="day">
+        <item>28 Novembre 1958</item>
+        <item>15 Août 1960</item>
+        <item>Août 1963 </item>
+        <item>décembre 1963</item>
+        <item>Juillet 1968 </item>
+        <item>18 Mars 1977 </item>
+        <item>5 février 1979 </item>
+        <item>25 février 1990 </item>
+        <item>Août 1992 </item>
+        <item>5 Juin 1997</item>
+        <item>15 Octobre 1997</item>
+        <item>janvier 2002</item>
+        <item>Mars 2002</item>
+        <item>juin 2003 </item>
+        <item>janvier 2010 </item>
+        <item>4 Mars 2012 </item>
+        <item>Novembre 2015 </item>
+        <item>Mars 2016</item>
+
+    </string-array>
+
+    <string-array name="dateDetails">
+
+        <item>Proclamation de la république du congo après le reférendum sur l\'appartenance à la communauté française.
+            Le congo est alors une république appart entière </item>
+
+    <item>indépendance du Congo. En mars 1961, Une Constitution est adoptée, l’abbé Fulbert Youlou est confirmé à la tête
+       de l’Etat. Devant son intention de crée un parti unique, en août 1963, les syndicats proclament la grève générale et une
+       émeute éclate. Les syndicats demandent la démission du Président Fulbert Youlou qui l’accepte. </item>
+
+        <item name="revolution">les 13, 14 et 15 Aout: renversement du régime de l’abbé Fulbert Youlou après un soulevement populaire. Ainsi cette période fut batisé les trois glorieuse en hommage aux vitimes</item>
+
+    <item> Alphonse Massamba-Debat, président de l\’assemblée, comme le stipule la Constitution remplace
+        le président Fulbert Youlou. Le congo entre dans le système du parti unique, avec le mouvement national de la
+        révolution (MNR), ce que l\’on reprochait à l\’ancien Président. Une nouvelle Constitution, remplaçant celle de 1961 et
+        donne des pouvoirs effectifs au parlement. Alphonse Massambat-Debat a qui a été confié le gouvernement provisoire, devient
+        président de la république avec pascal lissouba comme premier ministre.</item>
+
+    <item>Marien Ngouabi est porté au pouvoir. Réhabilitation du Conseil National de la Révolution (C.N.R.).
+        Le 31 décembre 1969 est créé le parti congolais du travail (P.C.T.), parti unique. Le Congo devient République Populaire
+        du Congo. Il change l\’hymne National et adopte le drapeau rouge. Le M.N.R. est remplacé par le P.C.T. Le Congo va connaître
+        une succession de tentative de coup d\’Etat </item>
+
+    <item> Assassinat de Marien Ngouabi. Instauration d\’un Comité Militaire du Parti (C.M.P.) avec à sa tête Denis Sassou Nguesso
+        qui sera vite remplacé par Joachim Yhombi Opango. L\’assassinat de Marien Ngouabi entraînera ceux de son prédécesseur Alphonse Massambat-Debat et du
+        Cardinal Emile Biayenda, archevêque de Brazzaville . Le colonel Joachim Yhombi Opango devient Président de la République et se donne
+        le grade de général d\’armée.</item>
+
+        <item> Denis Sassou Nguesso remplace Yhombi Opango à la tête de l\’Etat.</item>
+
+    <item>Conférence Nationale Souveraine, sous la Présidence de Monseigneur Ernest Kombo. Fin du système de parti unique.
+        Election d\’André Milongo comme Premier ministre de la transition. La Conférence Nationale Souveraine prive Denis Sassou Nguesso
+        de la plupart de ses pouvoirs et décide l\’organisation d\’élections en 1992.</item>
+
+    <item>Election présidentielle. Pascal Lissouba, ancien Premier ministre d\’Alphonse Massambat-Debat et Président
+        de l\’Union Panafricaine pour la Démocratie Sociale (U.P.A.D.S.) est élu Président de la République.</item>
+
+    <item> Des éléments de l\’armée gouvernementales, appuyés par des blindés, attaquent la résidence de Sassou Nguesso à Mpila.
+        Il s\’en a suivi des accrochages à l\’arme lourde à Brazzaville . La capitale sera désormais divisée en deux secteurs, l\’un
+        tenu par les forces gouvernementales et l\’autre par les partisans de Sassou Nguesso. </item>
+
+    <item>les partisans de Sassou Nguesso annoncent la prise de Pointe-Noire. Denis Sassou Nguesso confirme sa
+        supériorité militaire en contrôlant presque l\’ensemble du pays avec l\’aide de l\’armée angolaise.</item>
+
+        <item>Approbation de la nouvelle Constitution par référendum à 84,5% des voix, pour l\’opposition les opérations ont été frauduleuses.</item>
+
+    <item>élection de Sassou Nguesso dès le premier tour de la présidentielle, avec un scrutin peu transparent.
+        Début d’affrontements entre troupes gouvernementales et miliciens ninjas du pasteur Frédérik Bitsangou alias « Ntumi » dans la région du
+        Pool, provoquant le déplacement de plus de 40.000 civils, un accord est trouvé en mars 2003.</item>
+
+    <item>Rejet de la Cour internationale de justice sur demande du Congo pour geler l\’enquête judiciaire française ouverte
+        contre le président Sassou Nguesso et d\’autres cadres du gouvernement et de l\’armée, soupçonnés d\’être impliqués dans la disparition des
+        350 civils réfugiés en mai 1999. Septembre : L\’opposition rassemble 2.000 personnes à Brazzaville et appelle à l\’organisation d\’un dialogue
+        national pour faciliter le retour des exilés. Total cède au Congo ses parts dans le champ pétrolier off-shore Likouala, en contre-partie
+        de quoi le Congo renonce à ses revendications visant à harmoniser ses relations avec la compagnie pétrolière</item>
+
+    <item> Le FMI et la Banque Mondiale entérinent un accord prévoyant la réduction de la dette extérieure de 1.9 millions de dollars, le
+        Congo-Brazzaville atteint le point d\’achèvement de l\’Initiative PPTE.  Après l\’Italie et les Etats-Unis la France annule la totalité de la dette
+        du Congo soit 424 milliards de francs CFA (plus de 646 millions d\’euros).</item>
+
+        <item>Explosion du dépot de munition d\'arme du régiment blindé situé au quartier de mplia dans la péripherie nord de brazzaville; Cet incident a causé
+            la mort de plus de 200 homme, femme et enfant y compris la destruction de plus de 3 quartier. </item>
+
+        <item>Promulgation d\'une nouvelle constitution qui selon la mouvence présidentielle renforcera les institutions de la republique et permettra l\'inclusion
+              des jeunes dans la sphère politique</item>
+
+        <item>Organisation de l\'élection présidentielle. De nombreux candidats ont pris part à cette élection dont les anciens collaborateurs de sassou nguesso notamment le géneral
+        mokoko et parfait kolela(ancien ministre de la fonction publique). A l\'issue de celle-ci sassou nguesso sort vainqueure dès le premier tour avec plus de 60%.</item>
+
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="devise">Republique Du Congo</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+
+
+    <string name="youlou_naissance_etude">Fulbert Youlou est née le 07 juin 1917 à Kimpouomo (Madibou). Cadet d\'une famille de trois enfants;
+    il est baptisé à l\’âge de neuf (9 ans) ans le jeune Youlou reçoit le prénom catholique de Fulbert.
+
+    </string>
+
+
+    <string name="youlou_naissance_etude_two">En 1929,il intègre l\'école Jeanne d\'Arc. A l\'issue du cycle primaire, il entre au séminaire
+    de Brazzaville, où il trouvera parmi les anciens, Eugène Nkakou et Auguste Nkounkou, les deux premiers
+    prêtes congolais ordonnées en 1938.
+</string>
+
+    <string name="youlou_naissance_etude_three">
+       Il ira par la suite étudier à Akono où il aura Michel Bernard comme professeur (son futur évêque à Brazzaville) puis à Yaoundé
+(Cameroun), au grand séminaire, il rencontre Barthelemy Bonganda, futur président de la république centrafricaine.
+
+    </string>
+
+    <string name="youlou_naissance_etude_four">
+         De retour au Congo, il est chargé de diriger l\'œuvre des Moniteurs de Mindoulie (qui sera transférée à Kibouendé).
+il part ensuite à Libreville (Gabon) terminé ses études de théologie. Le 9 juin 1946, jour de la pantécoque, Fulbert Youlou est
+ordonné prêtre au même moment que Théophile Mbemba, Benoit Gassongo, Raphael Dangué (futur évêque) et Louis Loubassou.
+
+    </string>
+<string name="youlou_debut_en_politique">Encouragé par son protecteur le père  Charles Lecomte, Fulbert Youlou s\'intéresse
+        tôt à la politique; Il présente alors sa candidature au sein du collège africain, aux élections territoriale de 1947 dans la circonscription du
+    pool. Mais alors que le père Lecomte est élu sans difficulté au collège européen, Youlou enregistre un échec.
+
+</string>
+
+    <string name="youlou_debut_en_politique_two">Fulbert prend alors s\'est distance avec l\'administration. Quelque temps après en 1953 une plainte est déposé
+à l\’évêché à l’encontre du jeune Abbé pour adultère, par mesure disciplinaire il est affecter en brousse à Mindouli le 20 Novembre 1954. grâce à sa capacité à rassemblé autour de lui
+différents faction le jeune Youlou s\'impose comme un orateur des adeptes de Matswa.
+</string>
+
+    <string name="youlou_debut_en_politique_three">En 1955 le conseil Kongo le choisit afin qu\'il les représentes aux prochaines élections législatives. A l\'annonce de sa candidature des sanctions sont prises à son égare (il n\'a plus le droit de porté de sultane, ni de célébré de culte).
+    Il est alors considéré par ces partisans comme étant la réincarnation de Matswa, Fulbert Youlou deviens très vite un mythe vivant symbole de l\'opposition coloniale.
+
+    </string>
+
+
+    <string name="youlou_debut_en_politique_four">
+          Le 2 janvier 1956, jour des élections législative, de nombreux incidents sont enregistré à Brazzaville. Au cours des deux jours qui suivent, on dénombre
+une centaine de maison détruites, quatre morts et plusieurs dizaine de blessés. Fulbert Youlou avec Jacque Opangault, lance un appel au calme à la radio
+Une semaine plus tard, les résultats sont annoncés. Le candidat sortant Jean Félix Tchicaya est réélu député du Moyen-Congo avec 45.976 voix contre 43.193 voix pour Jacque Opangault
+et 41.084 pour Youlou. Il se rendre à Paris et tenter d\'invalider l\'élection de Tchicaya.
+
+    </string>
+
+    <string name="youlou_conquete_pouvoir">Apres son échec aux élections législatives, Fulbert Youlou fond l\'Union démocratique de défense des intérêts africaine (UDDIA) le 17 Mai 1956.
+    parti communiste d\'obédience chretienne-liberale, UDDIA avait pour concurrent le Parti progressiste congolais (PPC) de Jean Felix Tchicaya et le Mouvement socialiste africain (MSA) de Jacque Opangault.
+
+    </string>
+
+    <string name="youlou_conquete_pouvoir_two">
+       Après la victoire de son parti aux élections municipale de Novembre 1956, Fulbert Youlou est élu maire de Brazzaville. En 1957 se tiennent des élections territoriales
+visant à désigner un dirigeant locale. l\'UDDIA arrive second avec 22 siège contre 23 pour la coalition mené par Opangault.
+Pour sa part, l\'Abbé prend alors l\'Agriculture. Malgré quelque tension qui s\'en ai suivie l\'abbé Fulbert Youlou appelle à voté oui au référendum sur la communauté franco-africaine du 28
+Septembre 1958. Deux mois plus tard le 28 Novembre 1958 la République du Congo fut proclamé à l\'assemblée territoriale.
+
+    </string>
+
+    <string name="youlou_conquete_pouvoir_three">
+        Après la proclamation de la republique l\'UDDIA et le MSA n\'arrivent pas à s\'entendre, l\'UDDIA vote alors les lois constitutionnelle et l\'abbé Fulbert Youlou est porté à la
+        tete du gouvernement provisoir en absence des députés du MSA ce qui conduit à des émeutes. Le 8 Décembre 1958 Fulbert Youlou devient officiellement Premier Ministre,
+        il forme un gouvernement inclusif avec deux députés europpéen du MSA. Conformement aux accords du 26 Aout 1958 qui prévoit les élections législatives en Mars 1959, le MSA espère
+        renversé la tendance mais Youlou revuse de les organiser. les incidents éclatents entre les partisans du MSA face à ceux de l\'UDDIA.
+    </string>
+
+    <string name="youlou_conquete_pouvoir_four">
+       Les combats cessent grâce à l\'intervention de l\'armée Française, Opangault est arrêté pour incitation à la violence et sera relâché cinq mois plus tard. Entre temps Youlou a conforté sa position et quasiment éliminé l\'opposition parlementaire.
+Après la dissolution de l\'assemblé, l\'UDDIA remporte les élections du 14 juin 1959 avec 58% de suffrage. l\'assemblé devient nationale et le reconduit au poste de Premier Ministre, le 21 Novembre 1959 il est élu Président de la république.
+
+    </string>
+
+    <string name="youlou_fin_presidence">Bien avant l\'indépendance, le Congo Brazzaville vit de facto sous le régime du parti dominant. En Aout 1962, Fulbert Youlou annonce son
+intention d\'institutionnaliser le parti unique "Afin de sceller la réconciliation et l\'unité nationale réalisées". Il ne rencontre aucune opposition, bien au contraire, cette décision
+semble enthousiasmer Jacque Opangault du MSA et les dirigeants des autres partis politique. Une table ronde est organisé le 3 Aout 1963 rassemblant les dirigeant de MSA, PPC, UDDIA,
+les responsables syndicaux, les représentant de l\'assemblé et de l\'armée. Constatant que ce acte sera bénéfique pour Youlou les syndicalistes quittèrent la table.
+
+    </string>
+
+    <string name="youlou_fin_presidence_two">Les syndicalistes décide d\'organisé le 13 Aout les manifestations. La veille Youlou fait arrêter les principaux dirigeants syndicaux, à l\'annonce de cette nouvelle une simple
+manifestation s\'est transformé en une véritable manifestation anti-gouvernementale. Afin de calmer les tentions Youlou dissout le gouvernement dans la soirée, mais reconduit toute fois
+Dominique Nzalakanda dans le gouvernement ce qui pousse les militants Youlistes à rejoindre les manifestants. Le 15 Aout au matin, la foule se dirige vers le palais présidentiel
+afin de réclamer la démission de Youlou. Le chef de l\'état demande au Général De Gaulle l\'intervention de l\'armée française mais en vain. Resigné il finit par signé sa demission.
+
+    </string>
+
+    <string name="youlou_fin_presidence_three">
+        Le soir même de sa démission il est interné au camps militaire Fulbert Youlou. Quelque semaine plus tard il est transférer au camps de la gendarmerie Djoué. Le climat de terreur
+s\'installe avec le nouveau régime socialiste. Apprenant que les jours de Youlou sont comptés, Alphonse Massamba Debat remplaçant de Youlou à la tête du pays l\'aide à s\'enfuir vers
+LéopoldVille, le 25 Mars 1965. Le Premier Ministre de la république démocratique de Congo lui accorde l\'asile politique.
+
+    </string>
+
+    <string name="youlou_fin_presidence_four">
+        En Novembre 1965, il fait part au gouvernement français de s\'installé en France pour recevoir les soins. Contre l\'avis du général De Gaulle il débarque au Bourget
+le 29 janvier 1966. Malgré les recommandations de son conseillé Jacque Foccart, le chef de l\'état français envisage de le renvoyer à Léopoldville. Finalement l\'abbé est envoyé en
+Espagne où le régime de Franco l\'accueillir bien. Il décède à Madrid le 5 Mai 1972.
+
+    </string>
+
+    <string name="ngouabi_naissance_etude">Née le 31 Décembre 1938 à Ombele, village situé à plus dix kilomètre de Owando dans le département de la cuvette; Marien Ngouabi
+est le fils de Dominique Osséré et d\'Antoinette MBOUALE. Marié à Clotilde Martin (Française) au début des années soixante, il épouse par la suite Céline Mvouka.
+
+
+    </string>
+
+    <string name="ngouabi_naissance_etude_two">
+         De 1947 à 1953 il fait c\'est étude à Owando. En 1953 il entre à l\'école militaire préparatoire Général Leclerc à Brazzaville. Il sort en 1953 puis est affecté à Bouare
+en république centre africaine. De 1958 à 1960, il fait parti du deuxième bataillon des tirailleurs du Cameroun, avec le grade de sergent. En 1960 à la suite de l\'indépendance
+il est admis à suivre une formation d\'officier en France, d\'abord à l\'école préparatoire de Strasbourg, puis à l\'Ecole militaire interarmes de Coetquidan. Il a pour camarade
+de promotion ses compatriotes  Joachim Yhombi OPANGAULT et Louis Sylvain Goma. De retour au Congo en 1962 avec le grade de sous-lieutenant, il est affecté à
+la garnison de Pointe-Noire en qualité d\'adjoint au Commandant du bataillon d\'infanterie. En 1963 il est promu de grade de lieutenant. En 1965, de retour à Brazzaville il devient capitaine et commande le tout nouveau bataillon parachutiste des Forces armées
+Congolaise.
+
+    </string>
+
+    <string name="ngouabi_naissance_etude_three">
+        le 1er Octobre 1968, il devient commandant. Au début des années soixante-dix (70), il repend ces études de physique à l\'Ecole supérieur des science de Brazzaville.
+il obtient un diplôme d\'étude approfondies.
+
+    </string>
+
+    <string name="ngouabi_vie_politique">En 1966, Ngouabi est membre du comité central du Mouvement National de la Révolution (MNR) le parti unique, il y représente l\'armée.
+Comme d\'autres officier il prend mal le changement opéré dans l\'armée par le pouvoir politique. L\'année précèdent à la suite de l\'évasion du président Fulbert Youlou,
+la Jeunesse Mouvement National de la Révolution (JMNR) a été pourvue d\'une branche armée, dénommée  Défense Civile. puissamment équipé son rôle est de défendre la
+révolution de la nation.
+
+    </string>
+
+    <string name="ngouabi_vie_politique_two">
+        Après le vote de l\'Assemblée nationale du 22 juin 1966 qui transforme les Forces Armée Congolais (FAC) en Armée Populaire Nationale (APN), une direction politique à l\'armée et
+un haut commandement collégiale sont crée; dirigé par une commission les deux organes sont piloté par les membres du parti. Le capitaine Marien Ngouabi s\'insurge et émet des critiques
+à l\'endroit du président Massamba Debat. En guise de punition il sera muté à Pointe-Noire ayant refusé cette mutation, il sera arrêté puis rétrogradé au rang de soldat de première
+classe.
+
+    </string>
+
+    <string name="ngouabi_vie_politique_three">
+        Apres une mutinerie de son bataillon (Groupement aéroporté), le commandant Mountsaka tentant de faire rentré l\'ordre à la base militaire de Maya-Maya, il sera arrêté
+et mis au cachot. La défense civile parvient à rétablir l\'ordre, Marien Ngouabi est remit en liberté avec son grade. Cette épreuve lui a value le titre de chef de fil
+des officier progressiste. En 1968, le climat politique se dégrade. Après le limogeage de Ambroise Noumazalaye, Massamba Debat occupe lui-même le poste de Premier Ministre. Au mois de juillet la tentions est
+à son paroxysme il fait arrêter Marien Ngouabi et le lieutenant Eyabo pour activisme trop prononcé.
+
+
+    </string>
+
+    <string name="ngouabi_vie_politique_four">
+         Le groupement aéroporté se mutine de nouveau. Un groupement para-commandos
+conduit par l\'Adjudant Akouala, libère les deux prisonniers le 31. Alors que les positions se durcissent et que le pays est au bord de la guerre civile, Massamba Débat affaibli
+par la défection du commandant de la défense civile Ange Diawara, se voit contrait de prononcé l\'amnistie de tous les prisonniers politiques. Ngouabi devient le point de convergence
+de toutes les opposition au chef de l\'Etat.
+
+    </string>
+
+    <string name="ngouabi_ascention">Le 3 Aout 1968 Massamba debat laissant le pouvoir vacant, l\'armée publie un communiqué invitant le président à reprendre ses fonctions.
+    le communiqué précise que le lieutenant Poignet Secrétaire d\'état à la défense assure l\'intérim, Marien Ngouabi est nommé commandant en chef de APN.
+    Le 4 aout s\'ouvre les négociations entre les nouveaux hommes fort de l\'armée et le président Massamba Debat. Elle aboutit à la formation d\'un nouveau gouvernement et
+    à la constitution d\'un Conseil National de la Révolution (CNR), composé de 39 membres, 12 officier font partie du CNR dont Ngouabi, Alferd Raoul, Kimbouala-Nkaya et Sassou Nguesso.
+
+    </string>
+
+    <string name="ngouabi_ascention_two">
+
+Le 16 août, un acte fondamental abroge la constitution de 1963 et institue légalement le CNR, organe législatif provisoire. C\’est le véritable lieu du pouvoir.
+Il est présidé par Marien Ngouabi, alors que Massamba-Debat n\’en est que simple membre. Fin août, après la décision du CNR d\’incorporer la Défense Civile dans l\’APN, la tension monte de nouveau.
+Les accrochages éclatent entre les partisans de Massamba-Debat et l\'armée. Au bout de 3 jours d\’affrontement, les partisans du
+Président se rendent. Le 4 septembre, Alphonse Massamba-Debat démissionne et est aussitôt emprisonné.
+
+    </string>
+
+    <string name="ngouabi_ascention_three">
+                Le 31 décembre 1968, l\’acte fondamental est de nouveau modifié. Le CNR, remanié et réduit à 28 membres,
+devient l\’organe suprême de l\’État. Le chef du Conseil est de droit Président de la République. Marien Ngouabi devient ainsi le troisième Président du
+Congo, à l\’âge de 30 ans.
+
+    </string>
+
+    <string name="ngouabi_ascention_four">
+            Il prend la tête d\’un pays d\'un million d\’habitants, dont l\’économie repose sur l\’agriculture, l\’exportation du bois,
+l\’exploitation minière et le transport. Dans ce dernier domaine, ses infrastructures et sa
+situation géographique lui permettent de jouer un rôle de transit pour d\’autres pays de la sous région.
+
+    </string>
+
+    <string name="ngouabi_ascention_five">
+            Le Congo dispose également d\’une industrie agro-alimentaire et textile naissante, pour partie privée et pour partie étatique.
+Les services publics, quoique modestes, fonctionnent correctement. La corruption a été presque totalement éradiquée par le régime de Massamba-Debat.
+La situation financière de l\’État est saine. Le grand handicap du pays consiste en sa faiblesse en ressources humaines de haut niveau.
+
+    </string>
+
+  <string name="ngouabi_consolidation_pouvoir">
+            Au cours des premières années de pouvoir, Marien Ngouabi entreprend la reconstruction politique de la société congolaise sur le modèle soviétique. En cela, la rupture est nette avec les années Massamba-Debat, dont la référence
+était la Chine communiste. Les institutions politiques sont remodelées sur le canevas des pays d\’Europe de l\’Est. La coopération avec, l\'URSS, la RDA, la Tchécoslovaquie, la Roumanie et Cuba est renforcée.
+
+  </string>
+
+    <string name="ngouabi_consolidation_pouvoir_two">
+            La consolidation du pouvoir de Ngouabi se heurte à des tentatives multiples de déstabilisation. En février 1969, il réorganise l\’Armée et crée une Cour révolutionnaire de Justice, chargée de juger ceux qui ont mené des activités
+néfastes au bon fonctionnement du MNR depuis 1963. Quelques jours plus tard, Mouzabakani, soupçonné de préparer un coup d\’état, est arrêté en compagnie d\’autres officiers. Kinganga également impliqué, s\’enfuit à Kinshasa.
+La cour révolutionnaire, présidée par Simon-Pierre Ngouoniba-Nsari qui est secondé par Christophe Moukoueke, condamne Mouzabakani aux travaux forcés à perpétuité en juillet. Ses complices (André Loufoua, Firmin Mouzabkani,
+Joseph Senso, …) écopent de peines diverses.
+
+    </string>
+
+    <string name="ngouabi_consolidation_pouvoir_three">
+
+Du 29 au 31 décembre 1969 a lieu le congrès constitutif du Parti Congolais du Travail (PCT), parti unique d\’avant-garde, d\’idéologie marxiste-léniniste. Claude-Ernest Ndalla et Moungounga Nkombo Nguila ont en rédigé les statuts.
+La nouvelle constitution est promulguée à cette occasion, La dénomination officielle du pays devient République populaire du Congo. Les symboles de la république sont changés. Le drapeau tricolore (vert-jaune-rouge) est remplacé par
+un drapeau rouge avec une houe et un marteau jaunes entrecroisés, entourés de 2 palmes vertes. Les Trois glorieuses remplace La congolaise comme hymne national. Le parlement est supprimé.\n
+Le 7 janvier 1970, Marien Ngouabi est investi à la tête du parti et de l\’État pour 5 ans. Il nomme Alfred Raoul Vice-président du Conseil d\’État.
+
+    </string>
+
+    <string name="ngouabi_consolidation_pouvoir_four">
+                Au début de cette année 1973, l\’État qui peinait à équilibrer son budget depuis 1968, a vu ses recettes augmenter considérablement avec la mise en production au large de Pointe-Noire du champ d\’Émeraude, quelques mois plus tôt.
+Avec l\'exploitation de ce gisement géant sous concession par la société Elf-Congo, le Congo fait son entrée véritable dans le cercle des pays africains producteurs de pétrole, au meilleur moment (choc pétrolier de 1973).
+D\’insignifiante, la part des revenus pétroliers dans le budget passe à 31 %.
+
+    </string>
+
+    <string name="ngouabi_la_chute">
+        Le principe de la trilogie déterminante qui associe le Parti, le Syndicat et la Direction
+    dans la gestion, a considérablement nui au rendement des entreprises d\’État. Par système, l\’accession aux responsabilités dans le monde de l\’entreprise a été déterminée par le militantisme plutôt que par la capacité.
+    Il en a résulte une baisse de la productivité.
+
+        </string>
+
+    <string name="ngouabi_la_chute_two">
+                    Cependant les difficultés économique escompté pendant quelque temps dans le passé ressurgie. Le gisement d\'émeraude n\'a pas la production
+escompté et décline plus vite que prévu. La nationalisation provoque la baisse du cacao et du café; Les fermes d\'Etat sont improductives, les usines au bort de la faillite.
+Pour relancé la machine, Ngouabi réunit le Comité central en session extraordinaire du 5 au 12 Décembre 1975. A l\'issue de cette session certains membres sont exclu et
+un État Major Spécial Révolutionnaire est institué à la place. Il est Composé de Marien Ngouabi, Jean-Pierre Thystère-Tchicaya, Louis-Sylvain-Goma, Denis Sassou N’Guesso et Jean-Pierre Gombe.
+Sylvain-Goma nommé Premier ministre le 18 décembre, compose un gouvernement de 15 ministres. Le 28 décembre, Sassou N\’Guesso est nommé Délégué du Conseil d\’État chargé de la Défense et de la Sécurité.
+
+    </string>
+
+    <string name="ngouabi_la_chute_three">
+            Le 19 mars 1976, quelques semaines seulement après ces changements, l\’hélicoptère du Président s\’écrase dans la forêt du Nord. Durant 5 jours, la Nation est sans nouvelle de Ngouabi et de
+ses compagnons. Les épurés, c\’est-à-dire les victimes de la radicalisation, tentent de reprendre la main. La CSC, Syndicat unique affilié au PCT, appuyé par une partie de l\’UJSC, déclenche
+une grève générale de l\’ensemble des travailleurs pour réclamer la réhabilitation du Comité Central. Thystère-Tchicaya, numéro deux du régime, parvient à faire échec au mouvement. Apres
+plusieurs jours de marche Ngouabi atteint Owando.  Il est le seul survivant du crash avec Kakou. De retour à Brazzaville, il fait le ménage à la tête de la CSC.
+
+    </string>
+
+    <string name="ngouabi_la_chute_four">
+                    Le 18 mars 1977, il commence sa journée par la Faculté des Sciences de l\’Université de Brazzaville, où il est chargé de cours en première année. De retour à l\’État Major, il reçoit
+successivement en audience Alphonse Mouissou-Poaty, le Président de l\’Assemblée nationale et le cardinal Emile Biayenda. À 14 h 30, un commando armé entame une fusillade dans
+l\’enceinte de sa résidence. Quelques minutes plus tard, il est conduit en urgence à l\’hôpital militaire de Brazzaville. Peu de temps après le médecin légiste le déclare
+mort, constate que le corps du président est criblé de balles mais porte des vêtements neufs. Les obsèques de Ngouabi ont lieu le 2 avril. Le commandant Sassou-Nguesso
+lit l\’oraison funèbre. Le président défunt est inhumé dans l\’enceinte même de l\’État Major, devant sa résidence. Quelques mois plus tard, un mausolée est érigé sur sa tombe.
+
+    </string>
+
+    <string name="debat_naissance">
+        Alphonse Massamba-Débat naît à Nkolo en 1921 dans une famille kongo. Il fait ses études
+    primaires à l\'école régionale de Boko. Il reçoit ensuite une formation d\'instituteur à l\'école Édouard Renard de
+    Brazzaville. Marié à Marie Nsona avec laquelle il a plusieurs enfants, Massamba Debat est marqué par son éducation protestante, il
+    témoigne toute sa vie d\'une grande austérité pour certains, d\'une grande intégrité pour d\'autres
+    (et surtout pour ceux qui l\'auront connu au plus près) ainsi que d\'une dévotion confinant au mysticisme.
+
+
+    </string>
+
+    <string name="debat_naissance_two">
+
+De 1945 à 1948, il exerce au Tchad. De retour au Congo, il est directeur d\'école à Mossendjo de 1948 à 1953, puis à
+Mindouli de 1953 à 1956. À partir de 1957, il enseigne à l\'école laïque de Bacongo à Brazzaville.
+
+    </string>
+
+    <string name="debat_carriere_politique">
+
+Massamba-Débat est membre du PPC de Jean-Félix Tchicaya avant d\'adhérer en 1956 à l\'Union Démocratique de Défense des Intérêts Africains
+    (UDDIA), le parti nouvellement créé par l\'abbé Fulbert Youlou. En 1959, il est nommé directeur de cabinet au ministère de l\'Éducation nationale.
+    Il est élu président de l\'Assemblée nationale en 1959. Il occupera cette fonction jusqu\'en 1961.
+
+       </string>
+
+    <string name="debat_carriere_politique_two">
+                Il devient alors ministre du Plan et de l\'Équipement. Ses mœurs austères et sa simplicité, sa rigueur et sa compétence le préservent
+du discrédit croissant qui frappe les membres du gouvernement de Fulbert Youlou, auxquels la population reproche leur faste et leur arrogance.
+En mai 1963, Massamba-Débat quitte le gouvernement à la suite de divergences de plus en plus prononcées avec Fulbert Youlou
+
+    </string>
+
+    <string name="debat_debut_presidence">
+
+Le 15 août 1963, les chefs militaires Mountsaka et Mouzabakani appellent Alphonse Massamba-Débat au pouvoir.
+    Il devient chef du gouvernement provisoire et constitue un cabinet réduit constitué de techniciens; Le 8 décembre 1963, la
+    nouvelle constitution est adoptée par référendum. Elle institue un Conseil National de la Révolution (CNR), présidé par le président
+    de la République. Elle prévoit, outre la fonction de président de la République, celle de Premier ministre.
+
+    </string>
+
+    <string name="debat_debut_presidence_two">
+                Le 19 décembre, il est candidat unique à l\'élection présidentielle. Il est élu à 100 % des suffrages exprimés. Le 24 décembre 1963, il
+publie son gouvernement, au sein duquel Pascal Lissouba devient Premier ministre. En août 1964, le Mouvement National de la Révolution (MNR)
+est créé et institué parti unique. Massamba-Débat en est le secrétaire général et Ambroise Noumazalaye le Premier secrétaire politique.
+L\'idéologie du régime est de gauche et le Congo se rapproche des pays socialistes, tout en s\'éloignant des pays capitalistes.
+Che Guevara vient rencontrer Massamba-Débat en janvier 1965. Les relations diplomatiques sont rompues avec les États-Unis.
+
+    </string>
+
+    <string name="debat_debut_presidence_three">
+                Les rapports se tendent avec le Congo démocratique voisin dont l\'itinéraire politique est de plus en plus influencé par les velléités mobutistes.
+Le gouvernement de Tshombe expulse les ressortissants congolais vivant au Congo-démocratique. Sur le plan économique et social Massamba-Débat
+mène une gestion saine et rigoureuse. Sous sa présidence le Congo connaît un début d\'industrialisation et le niveau de vie des
+Congolais s\'améliore. Quelques grandes unités de productions à grande main d\'œuvre sont construites : l\'usine textile de Kinsoundi, les
+palmeraies d\'Etoumbi, l\'usine d\'allumettes de Bétou, les chantiers de constructions navales de Yoro, etc. Des centres de santé sont créés
+ainsi que des groupes scolaires. Le taux de scolarisation du pays devient le plus élevé d\'Afrique noire.
+
+    </string>
+
+    <string name="debat_fin_presidence">
+        En juillet 1968, devant la montée de la contestation, il fait arrêter le capitaine Ngouabi, dissout l\'Assemblée nationale,
+    le bureau politique du MNR et suspend la Constitution de 1963. Il en résulte un affrontement entre ses partisans au sein de la
+    Défense civile et une partie de l\'armée. Il est alors contraint d\'amnistier tous les prisonniers politiques et composer avec ses opposants.
+
+    </string>
+
+
+    <string name="debat_fin_presidence_two">
+            Le 5 août 1968, il forme un nouveau gouvernement, et un nouveau Conseil National de la Révolution (CNR) de 40 membres et doté de pouvoirs étendus, est mis
+en place. Celui-ci est présidé par Ngouabi et Massamba-Débat y est un simple membre. Outre Ngouabi, plusieurs officiers ont font partie : Norbert Ntsika, Alfred
+Raoul, Joseph Ngabala, Denis Sassou-Nguesso, Luc Kimbouala-Nkaya, Ange Diawara etc.. Le 4 septembre 1968, Massamba-Débat,
+dont les prérogatives de président de la République ont été rognées par le CNR, se résout officiellement de démissionner.
+La fonction de président de la République est provisoirement suspendue. Le capitaine Raoul assume l\'intérim du chef de l\'État.
+
+    </string>
+
+   <string name="debat_fin_presidence_three">
+
+Le 31 décembre 1968, la fonction de président de la République est rétablie. Marien Ngouabi est le nouveau président. Le 16 octobre 1969, il
+est arrêté par le nouveau régime et accusé des assassinats de février 1965. La cour martiale chargée de le juger l\'acquitte, le
+mois suivant, le procès ayant démontré la seule implication de ses collaborateurs. Le président Alphonse Massamba-Débat ne pouvait pas ignorer les soupçons et les preuves que ses
+services de sécurité avaient accumulés relatifs aux activités subversives de ces collaborateurs. Liberé, il se retire dans son village natal.
+
+   </string>
+
+    <string name="debat_fin_presidence_four">
+                Le Congo entre alors dans une phase de grande instabilité dont le point culminant sera l\'assassinat de Ngouabi en mars 1977. Massamba-Débat est arrêté à son domicile brazzavillois, le 18 mars 1977
+quelques heures après l\'assassinat de Marien Ngouabi. La cour martiale instituée le condamne à mort. Il est présenté comme l\'instigateur du complot ayant
+conduit à la mort du président Ngouabi. Il est exécuté durant la nuit du 25 mars 1977, dans des circonstances mystérieuses. Sa mémoire a été réhabilitée par la Conférence nationale souveraine de 1991.
+
+    </string>
+    <string name="yhombi_naissance_etude">
+            Jacques Joachim Yhombi-Opango naît le 12 janvier 1939 à Owando, alors appelé Fort-Rousset, dans la région de la Cuvette, au centre de la République du Congo.
+Il est marié à Marie-Noëlle et père d\'une nombreuse progéniture.
+
+    </string>
+
+    <string name="yhombi_naissance_etude_two">
+            De 1947 à 1954, il fréquente l\'école primaire de Fort-Rousset. À partir de l\'année 1954, il est enfant de troupe à l\'École militaire préparatoire Général
+Leclerc de Brazzaville. Il en sort en 1957 avec le grade de sergent. Entre 1957 et 1960, il sert au Tchad. De 1960 à 1962, il suit une formation d\'officier en France, à
+l\'École militaire interarmes de Saint-Cyr, promotion colonel Bourgoin. Il en sort avec la grade de lieutenant. De façon constante, depuis l\'école primaire de Fort-Rousset
+jusqu\'à Saint-Cyr, il a pour compagnon d\'études, Marien Ngouabi, auquel des liens de parenté l\'unissent.
+
+    </string>
+
+
+    <string name="yhombi_naissance_etude_three">
+            De retour au Congo, il est nommé en septembre 1963 commandant de la première compagnie, puis du premier bataillon congolais.
+En 1965, il est nommé Chef du cabinet militaire du Président Massamba-Débat. En 1968, il est en poste à Moscou comme attaché militaire depuis deux ans, lorsque le capitaine
+Ngouabi prend le pouvoir. Rappelé à Brazzaville, il est nommé en août 1968 commandant du bataillon des para commandos. En septembre 1969, il est nommé
+Chef d\'État-major Général avec le grade commandant. À ce poste, son intervention est décisive pour faire échouer le putsch du 22 février 1972.
+En janvier 1973, il est nommé colonel.
+
+    </string>
+
+    <string name="yhombi_naissance_etude_four">
+                En octobre 1973, il est remplacé à la tête de l\'armée par le capitaine Tsika Kabala et est nommé Inspecteur général des forces armées.
+En janvier 1978, Yhombi-Opango devient général de brigade. Il est le premier officier Congolais élevé à ce grade.
+
+    </string>
+
+<string name="yhombi_debut_politique">
+    Yhombi-Opango entre au Comité Central dès la création du Parti congolais du travail (PCT) en décembre 1969. En juillet 1974, il est nommé
+        Ministre délégué auprès du Président de la république, chargé de la Défense et de la Sécurité et des Postes et Télécommunications, en cumul de ses fonctions d\'Inspecteur général des forces armées.
+
+      </string>
+
+    <string name="yhombi_debut_politique_two">
+                Lors de la session extraordinaire du Comité Central du PCT de décembre 1975 qui procède à la radicalisation de la révolution congolaise, il est exclu du Comité central en
+même temps que Martin M\'beri, et démis de son poste d\'Inspecteur Général des armées. Il est ensuite nommé Directeur de la Régie Nationale des travaux    Publics.
+ Le 18 mars 1977, il se trouve à Owando pour l\'inauguration d\'un tronçon routier, au moment de l\'assassinat du Président Ngouabi.
+
+    </string>
+
+<string name="yhombi_ascention_politique">
+    Dans la nuit du 18 mars 1977, réuni d\'urgence, l\'État Major Spécial Révolutionnaire (EMSR), organe suprême du Parti, décide de sa propre
+        dissolution et de l\'institution d\'un Comité Militaire du Parti chargé de gérer la crise. Au cours de la même nuit, le Comité Central du PCT entérine la décision. La mission
+        du CMP est d\'organiser les obsèques du Président et de diriger l\'État jusqu\'à la mise en place d\'institutions définitives. Yhombi-Opango en est un des onze membres. Le décès
+        de Marien Ngouabi et la mise en place du CMP sont annoncés officiellement le 19 mars. Il organise la veillée mortuaire des proches du président défunt à son domicile de Mpila.
+
+</string>
+
+    <string name="yhombi_ascention_politique_two">
+            Dans les jours suivants, une cour martiale est chargée de juger ceux que la Commission d\'enquête désigne comme auteurs ou complices. Alphonse Massamba-Débat,  présenté comme
+l\'instigateur du complot contre son successeur, est condamné à mort. Plusieurs membres de la garde présidentielle sont également passés par les armes. Les    obsèques de Ngouabi
+se tiennent le 2 avril 1977.
+
+    </string>
+
+    <string name="yhombi_ascention_politique_three">
+                Le 3 avril 1977, le Comité Militaire du Parti communique sa structure définitive. Joachim Yhombi-Opango en est le numéro un et devient le quatrième Président de la République
+du Congo. Le 5 avril 1977  L\'Assemblée Nationale est dissoute. Ses pouvoirs et ceux du Comité Central du PCT sont transférés au CMP. Le même jour, Louis Sylvain-Goma est confirmé
+au poste de Premier Ministre et forme le nouveau gouvernement.
+
+    </string>
+
+<string name="yhombi_presidence">
+    Au début de sa présidence il améliore les relations diplomatique avec la France et les relations diplomatiques sont rétablies avec les États-Unis, après 13 ans de rupture.
+        Il s\'efforce de restaurer la rigueur et l\'efficacité dans l\'administration publique. Le moindre manquement est réprimé chez les fonctionnaires.  Cependant,     les difficultés financières de
+        l\'État, apparues au cours des deux dernières années de la présidence de Ngouabi, compliquent la tâche du nouveau régime. Le gouvernement expulse les résidents illégaux.
+
+</string>
+
+    <string name="yhombi_presidence_two">
+
+Sur le plan politique  un couvre-feu est en vigueur dans tout le pays, Les complices de l\'assassinat de Marien Ngouabi sont traqués sans relâche. Dans la nuit du 13 au 14 février 1978, le chef du
+commando qui a assassiné Marien Ngouabi, et dans la clandestinité depuis près d\'un an, est repéré dans le quartier de Makelekele où il se terrait, et est abattu.
+
+    </string>
+
+    <string name="yhombi_presidence_three">
+            Devant l\'agitation croissante dans le pays après une campagne de dénigrement,  Le 5 février 1979, une session extraordinaire le Comité Central du PCT dépose     le CMP et
+Yhombi-Opango est démis de sa fonction de Président de la République. Dénis Sassou N\'Guesso le remplace, à titre provisoire, dans l\'attente du congrès extraordinaire du PCT
+en mars 1979. Le 14 mars 1979, il est arrêté et mis en résidence surveillée à la "Cité des 17", au Nord-Ouest de Brazzaville.
+Des militaires proches de lui, sont également arrêtés. Il est exproprié de ses biens. En novembre 1984, après plus de 5 ans de détention,
+il est libéré. Il se retire à Owando. En juillet 1987, il est de nouveau arrêté.
+
+    </string>
+
+    <string name="yhombi_presidence_four">
+                En août 1990, le contexte international et la pression intérieure, notamment la fronde du syndicat unique, contraignent le régime de Sassou
+N\'Guesso à amorcer la démocratisation de la vie publique. Yhombi-Opango retrouve la liberté, comme tous les autres prisonniers politiques.
+Dans la foulée, il intente un procès à l\'État pour l\'expropriation de ses biens après son renversement. Il le
+gagne et récupère tous ses biens. Les dommages et intérêts s\'élèvent à près de 1 milliard de francs CFA.
+
+    </string>
+
+<string name="yhombi_exile">
+    Après la victoire électorale de Lissouba Yhombi devint d\'abord premier ministre puis directeur de campagne
+        de ce dernier. Le 5 octobre 1997, la victoire des forces de Sassou-Nguesso sur le régime de Lissouba le contraint à la fuite. Il trouve refuge au Gabon, avant
+        de s\'installer en exil en Côte d\'Ivoire, puis en France.
+
+</string>
+
+    <string name="yhombi_exile_two">
+            En décembre 2001, il est condamné par contumace à 20 ans de travaux forcés pour crimes économiques.
+En 2007, il bénéficie d\'une loi d\'amnistie votée par le gouvernement de Sassou-Nguesso. Le 10 août, il rentre au Congo.
+Depuis, il tente de redynamiser son parti, le RDD.
+
+    </string>
+
+    <string name="royaume_téké_origine">
+        Dans le vaste territoire que constituait l\'ancien royaume Kongo, cohabitent de nombreux peuples, dont les tékés qui étaient aussi constitués en royaume avant même que les portugais
+    investissent Mbanza Kongo, la capitale du royaume Kongo
+    On observe de multiple variantes des tékés comme :  Anzicana, Anzichi, Anzicho etc..
+    Les tékés étaient connus sous le nom de d\'Anzico.
+
+    </string>
+
+    <string name="royaume_téké_origine_two">
+                Ce nom apparait en 1535 dans les titres revendiqués par Alphonse Ier du Kongo.  Le terme serait une désignation péjorative employée par les Bakongos et signifiant « petits », en référence aux Pygmées auxquels les Teke se sont mêlés en se répandant sur l\'ancien territoire de ceux-là.
+ Ils parlent des langues bantoues, les langues téké.
+
+    </string>
+
+    <string name="royaume_téké_origine_three">
+            Les tékés forment une population d\'Afrique centrale partagée entre l\'ouest de la République démocratique du
+Congo, le sud de la République du Congo et, minoritairement, le sud-est du Gabon. Le terme Batéké désigne « le peuple des Teke », le préfixe ba étant le signe du pluriel.
+
+    </string>
+
+    <string name="royaume_téké_origine_four">
+            Les Téké sont minoritaires au Gabon, 54 000 se trouvent dans la région de la province du Haut-Ogooué. Feu le président Omar Bongo était téké.
+En République du Congo, les Téké forment 18 % de la population et se trouvent dans la région des Plateaux, de la Lékoumou, de la Cuvette ouest
+(où ils sont appelés Béti et Tégué), du Niari (où ils sont nommés nzabi), de la Bouenza et la région du Pool. En République démocratique du Congo, 267 000 Téké sont
+situés dans la province du Bandundu, district des Plateaux, et la ville-province de Kinshasa.
+
+    </string>
+
+    <string name="royaume_teke_histoire">
+        Selon les mythes fondateurs, ils descendent de Nguunu, ancêtre de la plupart des populations du sud Congo.
+    Au XVe siècle, les Téké sont établis dans la savane sur la rive droite du fleuve Congo. Ils tirent à cette époque leur richesse
+    d\'importants gisements de cuivre comme celui de Mindouli.
+
+    </string>
+
+    <string name="royaume_teke_histoire_two">
+            Ils ont des contacts avec les Portugais qui explorent la région
+côtière à partir du XVIe siècle. Ils subissent les assauts de l\'empire Congo attiré par cette source de profits et soutenu
+par le Portugal. Un peuplement à l\'origine du royaume de Loango les chasse vers l\'intérieur du territoire.
+
+    </string>
+
+    <string name="royaume_teke_histoire_three">
+                Successeurs des pygmées dans l\'occupation de l\'intérieur de l\'actuel Congo-Brazzaville, ils s\'émancipent du Manikongo vers
+1620 et fondent à leur tour le grand royaume Tio. Une rivalité s\'instaure avec le Kongo qui dominait précédemment ce territoire, alors
+appelé Anzico. Le roi est appelé mikoko ou Makoko par les Européens, tandis que l\'état est appelé le Royaume de Anzique et les habitants les Anzicains.
+
+    </string>
+    <string name="royaume_teke_histoire_four">
+            Entre le XVIe siècle et le XVIIIe siècle, le royaume Téké est impliqué dans le commerce triangulaire entre Afrique, Europe et colonies européennes d\'Amérique et la traite
+d\'esclaves. Le 3 octobre 1880 à Mbé, capitale de son royaume, le Makoko Illoy Ier conclut avec l\'explorateur Pierre Savorgnan de Brazza, agissant pour le compte de la
+France, un traité, dit « traité Makoko », au terme duquel il place son royaume sous la protection de la France. Le traité autorise l\'établissement à Nkuna, futur Brazzaville, soit
+à cinq cent kilomètres de la dernière station française, d\'un poste qui sera gardé pendant des années par un unique sergent, le sénégalais Malamine Kamara.
+
+    </string>
+
+    <string name="royaume_teke_organisation">
+            Le royaume tékés était organisé de la manière suivante: au somment un chef suprême Onko\'o, dirigeant du royaume, en tant que représentant
+    des ancêtres morts et symboles effectifs de l\'unité ethnique. Le Makoko (Onko\'o) était entouré de dignitaires héréditaires, il partageait le pouvoir avec ses grands feudataires qui ont
+    un département ou un ministère. Ceux-ci était choisit suivant un ordre matriarcat (de frère à frère et de l\'oncle maternel à neuve. Le royaume aussi grand soit il,
+    était dépourvu de division clanique. Le principe d\'organisation majeur était la chefferie (village).
+
+    </string>
+
+    <string name="royaume_teke_organisation_two">
+                Le village est l\'unité sociale le plus important. Chaque village avait un chef, "M\'fumu" mais tous les "M\'fumu" n\'étaient pas puissant et connus à Makoko. Par contre, il
+existait de grand chef, puissant "Nuko\'o", qui sécurisait plusieurs villages son pouvoirs et son autorité s\'étalait sur une superficie quelconque. Et tous les "M\'fumu" sous
+sa protection lui devait des tributs, à son tour, payait aussi à Makoko.
+
+    </string>
+    <string name="royaume_teke_organisation_three">
+            Le royaume Tékés a connus un tournant décisif de son histoire par la signature avec l\'explorateur français Savorgnan de Brazza, le 10 septembre 1880. Ce traité dit traité de Makoko,
+méttait le royaume sous la protection française. En 1885 pendant la conférence berlin, les peuples téKés ont vu leurs royaume divisé en trois. Ainsi fut la fin du royaume Batékés.
+
+    </string>
+
+
+    <string name="royaume_teke_mariage">
+
+L\'importance de la famille se manifeste aussi à l\'occasion du mariage. Celui-ci est généralement plus affaire de famille que des fiancés. La
+    préoccupation principale qui réside aux négociations et à la réalisation du mariage est de bien servir les intérêts de familles et du village. En général on respect l\'inclinaison
+    des fiancés mes l\'avis des parents vient en dernier ressort.
+
+    </string>
+
+    <string name="royaume_teke_mariage_two">
+            Chez les tékés, l\'indemnité matrimoniale est moins signifiante mais très couteuse, car le mari devrait passer chez tous les oncles et tantes de la femme pour leur donné du vin et
+un peu d\'argent puis quelques symboles au père de la femme mais qui ne peut être exagéré car, on aura toujours besoins de l\'homme et de ses divers apports au sein de la famille.
+La polygamie est autorisé suivant la fortune de l\'époux.
+
+    </string>
+
+    <string name="royaume_teke_croyance">
+                Dans le royaume on reconnait un être suprême NJAMI ou NJAME MPU considéré comme créateur. NJAMI représente toutes les forces, personnages avec des
+qualité exceptionnelles et tout puissant mais les tékés considère NJAMI est trop éloigné, ainsi, il s\'adresse aux intermédiaire qui sont très souvent les ancêtres qui sont aux cotés des vivant.
+Et une importance s\'accorde aux esprits de la nature, très souvent, les esprits de l\'eau.
+
+    </string>
+
+    <string name="royaume_teke_croyance_two">
+    Les villages tékés dispose des lieux ou habitent des esprits très souvent dans les chutes d\'eau, des rapides, des sources d\'eau, etc.. Ces esprits peuvent agir partout au service
+de l\'homme disposant d\'un sanctuaire approprié. Les sanctuaires n\'étaient pas en édifices mais dans ce lieu que l\'on considère mystérieux et aussi sous les gros arbres que le NGAA
+tenait son culte et ses initiations.
+
+    </string>
+
+    <string name="royaume_teke_croyance_three">
+            très souvent les tékés représentent leurs esprits par des objets symbolique comme: les coquillages, les statuettes, les bâtons, les arbres, les plantes.. mais les plus usité restent les
+statuettes. Ces représentation se nomme communément les NKISI ou BUTI.
+
+    </string>
+
+    <string name="royaume_teke_croyance_four">
+            En ce qui concerne le Kindoki ou la sorcellerie, autre fois, pour les tékés, la famille n\'ayant pas de sorcier était considéré comme faible. c\'est dans de pareille famille que l\'on
+prenait de force des esclaves et aussi des personnes à sacrifier pour des certains sorciers.
+
+    </string>
+
+    <string name="lissouba_naissance_etudes">
+        Pascal Lissouba est née le 15 novembre 1931 à Tsinguidi dans le département du Niari. Ses
+parents appartiennent à l\'ethnie Nzabi, communauté a cheval entre le Congo et le Gabon. D\'abord marié a Annette Chantegreil, puis à Jocelyne
+Pierrot de nationalité française, il est père de onze enfants. Sa première fille Mireille Lissouba est sa directrice de cabinet de 1993 à 1996.
+
+    </string>
+
+    <string name="lissouba_naissance_etudes_two">
+            Pascal Lissouba a fait ses études primaire à Mossendjo et à Boko. Il commence ses études secondaire à Brazzaville et les poursuites
+à Nice ou il obtient son Baccalauréat en 1952. En 1956 il obtient un diplôme d\'ingénieur en agronomie à l\'école supérieur d\'agriculture
+de Tunis, revenu en France il passe une licence en sciences naturelles; Il est ensuite stagiaire au centre national de la recherche
+scientifique. En 1961 il soutient sa thèse d\'état et accède au grade de docteur en sciences avec mention très bien.
+
+    </string>
+
+    <string name="lissouba_naissance_etudes_three">
+            A partir de juin 1961, il est chargé de la recherche à l\'institut de recherche pour le développement et est promu maitre de
+conférence en biologie végétale, par arrêté du 3 novembre 1961 du ministère de l\'éducation nationale.
+
+    </string>
+
+    <string name="lissouba_ascention_politique">
+        En 1962 il rentre au Congo et est nommé directeur général des services agricoles, alors qu\'il
+souhaite se consacrer à la recherche et à l\'enseignement.
+
+    </string>
+
+    <string name="lissouba_ascention_politique_two">
+            Le 24 Décembre 1963 après son élection au poste de président Massamba Débat le nomme premier ministre. Moins de deux ans après son entré
+dans la vie active, il est le plus jeune premier ministre du Congo. Il forme un gouvernement dont il est à la fois premier ministre et
+ministre de l\'agriculture. Il élabore un plan qui prévoit la nationalisation de plusieurs secteur de l\'économie congolaise et le développement
+d\'un secteur de l\'industrie d\'état.
+
+    </string>
+
+    <string name="lissouba_ascention_politique_three">
+            Sur le plan social, le gouvernement Lissouba s\'efforce d\'assurer une couverture maximale du territoire en matière de santé et de scolarisation en créant
+de nombreuses écoles et dispensaires. Le stade de la révolution, est construit en un temps record et sert de cadre aux premiers jeux africains de 1965. Sur le plan
+diplomatique, le Congo s\'éloigne des pays occidentaux et se rapproche des pays de bloc communistes. Le 15 avril 1966 les divergences de plus en plus prononcé avec Massamba Débat
+le contrait à déposé sa démission, il sera remplacer par Noumazalaye.
+
+    </string>
+
+    <string name="lissouba_traverser_desert">
+        Déchargé des ses responsabilité politique, Lissouba enseigne la génétique au centre d\'études supérieur de Brazzaville. Il apporte
+son assistance aux planteurs de cacao de la région de la sangha et réalise des croisement des espèces de manguiers à boko et à loudima.
+
+    </string>
+
+    <string name="lissouba_traverser_desert_two">
+            Le 5 Aout 1968, au beau milieu du bras de fer entre Massamba Débat et les officiers progressistes menés par Marien Ngouabi qui aboutissent à la création du
+Conseil National de la Révolution (CNR) Lissouba en sera un des trente neuf membres. Le 17 octobre il sera arrêté pour complicité dans le triple assassinat de Pouabou, Matsocota et
+Massoueme en 1965. Lui et certains de ces co-accusés sont acquittés. Ils sont interdits de toute activité politique et sortie du territoire pendant deux ans.
+
+    </string>
+
+
+    <string name="lissouba_traverser_desert_three">
+            De nouveau libre de toute responsabilité politique, Lissouba revient à l\'enseignement cellulaire et de l\'enseignement de la génétique. En 1970, il devient directeur de l\'école
+supérieur des sciences (actuellement faculté des sciences de l\'université Marien Ngouabi). En février 1972, après l\'échec du coup d\'état militaire mené par Ange Diawara, il est
+condamné à la réclusion par la cour martiale, il est cependant remis en liberté rapidement. Lors du deuxième congrès extra-ordinaire du PCT en Décembre 1972 il fait son entré dans
+le comité central. Il y a pose une condition l\'amnistie de tous les prisonniers politiques. N\'obtenant pas de satisfaction, il organise une opposition interne au sein du parti unique.
+    Il sera de nouveau arrêté puis relâché.
+
+    </string>
+
+
+    <string name="lissouba_traverser_desert_four">
+                Fin mars 1976, après l\'échec de la grève générale lancée par les victimes de la radicalisation de la révolution il est encore arrêté. Il reste en prison quelque semaines seulement.
+Le 18 Mars 1977 dans les heurs qui suivent l\'assassinat de Marien Ngouabi, il est de nouveau arrêté, traduit devant la cour martiale, il est condamné à mort le 25 mars, pour complicité
+avec Massamba Débat. Une intervention in extremis d\'Omar Bongo appuyé par une mobilisation des scientifique français et africains lui permet d\'échapper au peloton d\'exécution mais
+il est condamné à la prison à perpétuité. En 1979 Sassou Nguesso élargit tous les prisonniers politiques, Lissouba retrouve sa liberté.
+
+    </string>
+
+    <string name="lissouba_retraite_politique">
+
+        Les conditions sévères de sa détention ont altéré sa santé. Aussitôt libéré, il se rend en France pour les soins médicaux. Il va y rester
+s\'éloignant pour de longue années du champs politique. Il enseigne la génétiue à l\'université de Créteil. En 1985, il intègre l\'UNSECO et est nommé directeur des sciences exactes et naturelles.
+Il est ensuite directeur régionale de l\'UNESCO en Afrique pour la science et la technologie a Nairobi
+
+    </string>
+
+    <string name="lissouba_retour_politique">
+        Fin 1990, l\'évolution politique du pays contrait Sassou Nguesso à accepté le principe d\'une conférence nationale qui s\'ouvre le 25
+février 1991 à Brazzaville. Pascal Lissouba y participe comme individualité. Son prestige est écorné lors des débats sur les assassinats de février 1965 mais sa culpabilité n\'est
+jamais démontré.
+
+    </string>
+
+    <string name="lissouba_retour_politique_two">
+        Après son échec lors de l\'élection du premier ministre de la transition démocratique, il fonde l\'union panafricaine pour la démocratie sociale (UPADS) en juillet 1991. La nouvelle
+formation politique intègre plusieurs personnalités et partis ayant participé à la conférence nationale. Après la mise en place des organes de son partis, il repart en France pour prendre
+sa retraite de l\'UNSECO. En février 1992, une foule considérable des militants et sympathisants de l\'UPADS l\'accueil à l\'aéroport et l\'escorte jusqu\'au palais des congrès, ou il tient
+son premier meeting.
+
+    </string>
+
+    <string name="lissouba_retour_politique_three">
+            Après le referendum constitutionnel du 15 mars qui a abouti à l\'adoption d\'une nouvelle constitution, l\'UPADS réalise une raz de marée lors des élections locales et municipales
+de 3 Mai, l\'UPADS s\'impose comme la première force politique du pays. Pendant les législatives de Juin l\'UPADS obtient 39 sièges à l\'assemblée, le MCDDI 29 et le PCT 18 sièges.
+A l\'approche de la présidentielle Pascal Lissouba apparait comme favori. Le président de l\'UPADS réalise une campagne électorale avec une stratégie de communication basée sur son passé
+d\'homme d\'état, il est le seul à proposer un projet porteur aux congolais, c\'est sur cette base qu\'il est élu triomphalement au premier tour qui se tient le 2 Aout.
+
+    </string>
+
+    <string name="lissouba_retour_politique_four">
+        Pascal Lissouba est investi président le 31 Aout 1992 au palais du peuple devant les corps constitués et les représentants diplomatiques.
+Le Congo de 1992 est un pays de 2.600.000 habitants, fortement urbanisé et dont la population est jeune. Dans le secteur tertiaire, le grand commerce est détenu par les capitaux étrangers, les
+nationaux et la communauté ouest-africaine assurent le petit commerce de proximité. La première banque du pays la BCC est au bord du dépôt de bilan. Enfin, sur le plan budgétaire
+le service de la dette qui absorbe près du tiers des recettes, vaut à l\'état des fins de mois difficile depuis plus d\'un an.
+
+    </string>
+
+    <string name="lissouba_debut_presidence">
+        Pascal Lissouba est investi président le 31 Aout 1992 au palais du peuple devant les corps constitués et les représentants diplomatiques.
+Le Congo de 1992 est un pays de 2.600.000 habitants, fortement urbanisé et dont la population est jeune. Dans le secteur tertiaire, le grand commerce est détenu par les capitaux étrangers, les
+nationaux et la communauté ouest-africaine assurent le petit commerce de proximité. La première banque du pays la BCC est au bord du dépôt de bilan. Enfin, sur le plan budgétaire
+le service de la dette qui absorbe près du tiers des recettes, vaut à l\'état des fins de mois difficile depuis plus d\'un an.
+
+    </string>
+
+    <string name="lissouba_debut_presidence_two">
+        Le 1er septembre 1992, il nomme Stéphane Maurice Bongho Nouarra premier ministre. La formation du gouvernement est l\'objet d\'intense tractation, il est composé des poids lourd
+le l\'UPADS par contre le PCT ne reçoit que trois poste ministérielle au lieu de sept conforment à l\'accord du 11 Aout 1992. A cet effet le ministre Isidore Mvouba du PCT démissionne.
+L\'élection du président de l\'assemble esquisse un renversement d\'alliance André Moullé du PCT est élu président.
+
+    </string>
+
+    <string name="lissouba_debut_presidence_three">
+        le 30 septembre, l\'URD, le PCT et cinq autre partis signent un accord
+de gouvernement, elle consacre un changement de majorité parlementaire à l\'assemblée nationale. Cependant Lissouba ne mets pas fin aux fonctions
+du gouvernement Bongho Nouarra pour nommer un premier ministre issue de la nouvelle majorité comme le stipule l\'article 75 de la nouvelle constitution.
+
+    </string>
+
+    <string name="lissouba_debut_presidence_four">
+            La coalition dépose finalement une motion de censure contre le gouvernement de Bongo Nouarra qui sera votée le 31 octobre; Le jour suivant Bongo Nouarra dépose sa démission
+au président mais celui-ci refuse et lui demande de poursuivre sa mission. Le 17 novembre, s\'appuyant sur l\'article 81 de la constitution, Lissouba dissout l\'assemblée et
+demande au gouvernement de Bongo Nouarra de gérer les affaires courantes jusq\'au prochaine élection législative anticipée, cette situation va conduire à des manifestations
+et la mise en place des barricades à travers la ville de Brazzaville.
+
+    </string>
+
+     <string name="lissouba_debut_presidence_five">
+
+         Le général jean marie Michel mokoko chef d\'état major réunit quelque jours plus tard au palais des congrès le pouvoir et l\'opposition
+    afin de trouvé une issue à cette crise. Le 3 octobre un accord fut signé par les représentants des deux camps. Cet accord prévoyait la composition d\'un gouvernement dont l\'opposition aura
+    plus de poste par rapport à la majorité.
+
+     </string>
+
+    <string name="lissouba_election_anticiper">
+
+        Prenant acte de l\'accord du 3 Décembre, Pascal Lissouba nomme Claude Antoine Da Costa au poste de premier ministre. Le 25 Décembre
+Claude Antoine Da Costa publie son gouvernement. Dès ses débuts le nouveau gouvernement ne montre aucune cohésion dans son action et ne se réunit quasi jamais en conseil de ministre.
+
+    </string>
+
+    <string name="lissouba_election_anticiper_two">
+        Le premier tour des élections anticipées se tient le 2 Mai. Les jours suivant les médias annoncent la victoire de la mouvance présidentielle. Une semaine avant la publication des résultats
+Bernard Kolelas réclame la reprise du scrutin dans sept circonscriptions. La situation reste bloquée pendant deux semaines. Les résultats seront publiés le 20 Mai, la mouvance présidentielle
+remporte 62 sièges (La majorité étant 63 sièges), l\'opposition conteste les résultats et appel ses partisans à mobilisation. Des violences politico-ethnique éclatent dans le pays suite aux déclarations des
+acteurs politique et le refus de la cour constitutionnelle de validé les résultats.
+
+    </string>
+
+    <string name="lissouba_election_anticiper_three">
+        Le 16 juillet le chef de l\'état déclare l\'état d\'urgence dans tous le pays. 15 jours plus tard Pascal Lissouba remplace le général Jean Marie Michel Mokoko par Eta-Onka au poste de chef d\'état major.
+Le 31 janvier 1994, le collège arbitral international rend ses conclusions, annulant le vote dans six circonscription remporté par l\'URD-PCT et dans trois gagné par la mouvance présidentielle. l\'opposition
+s\'incline face à l\'arbitrage international.
+
+    </string>
+
+    <string name="lissouba_election_anticiper_four">
+        Dix sept mois après son entrée en fonction Lissouba a enfin les coudées franche pour bien mené son action. L\'un des défis qui se pose à Lissouba en ce début d\'année 1994 est la dévaluation du CFA de 50% par rapport au franc français
+le Congo très dépendant le l\'étranger pour ses besoins alimentaires et en produits manufacturés, la dévaluation du CFA est très pénalisante pour les ménages. Le plan d\'action et de relance économique
+et sociale (Paréso) adopté par le parlement au début de l\'année, obtient l\'agrément du FMI après de rudes négociations. Il prévoit notamment le recensement du personnel de l\'état, la réduction du train de vie
+de l\'état et la privatisation de plusieurs grandes entreprises publiques.
+
+    </string>
+
+    <string name="lissouba_guerre_civile">
+        Le 4 Mai 1996 Lissouba annonce la tenue de la prochaine élections présidentielle pour le 27 juillet (Premier tour) et le 10 Aout 1997 (Deuxieme tour). Il installe une
+    commission nationale de recensement chargée de dresser les listes électorale, tous les partis doivent en faire partie. Le 24 Aout Yhombi Opangault dépose sa démission
+    en tant que premier ministre, il est remplacé par David Ganao. En fin 1996 le gouvernement Lissouba réussit à maitriser les finances publiques, et à les assainir efficacement,
+    il est par ailleur le gouvernement qui a remboursé en 3 ans plus de 60% la dette la plus élevé par tête d\'habitants.  La signature d\'un accord de bonne conduite par les principaux dirigeants politiques congolais, le 31 Mai ne mets pas fin à la crise. Des militaires proches de Yhombi Opango sont
+    assassinés aux environ d\'Oyo. Le 4 Juin le gouvernement proclame sa détermination à traquer et anéantir tous les éléments non réguliers détenteurs d\'armes de guerre.
+
+    </string>
+
+    <string name="lissouba_guerre_civile_two">
+        Dans son discours de politique général devant le parlement le premier
+ministre Ganao s\'engage à lutter contre la corruption et les détournements et à organiser l\'élections présidentielle dans la transparence.
+Le 10 Mai 1997 l\'arrivée de Denis Sassou Nguesso à Owando, en tournée préélectorale est perturbée par les partisans de Yhombi Opango, la mort d\'un militaire mets le feux au poudre dans la capitale de la Cuvette; cela
+cause la mort d\'une dizaine de personnes.
+
+    </string>
+
+    <string name="lissouba_guerre_civile_three">
+        Le 5 Juin un détachement de blindé encercle la résidence privée de sassou nguesso à Mpila. Les Cobras (Partisans de Sassou Nguesso) repousse violement l\'armée et occupe en quelques heures la majeure partie du centre ville et les casernes du Nord de
+Brazzaville, ce fut le début d\'une véritable guerre civile. Le 19 juillet, le conseil constitutionnel reporte la tenue des élections présidentielle.
+Dès septembre 1997, les forces angolaises s\'engage aux cotés des Cobras.
+
+    </string>
+
+  <string name="lissouba_guerre_civile_four">
+      Le 11 Aout l\'aviation angolaise lâche des bombes sur le palais présidentiel et dans les quartiers sud de Brazzaville, Lissouba est contrait de quitté Brazzaville
+      et de se replier sur Dolisie. Le 14 octobre Brazzaville tombe aux mains des Cobras et l\'armée Angolaise. Le lendemain Pointe Noire tombe à son tour. C\'est la fin pour le régime de Lisouba, les dignitaires s\'enfuit le plus vite
+      possible vers les pays voisins. Le président Lissouba lui même transite vers Nkayi et Sibiti avant de traverser la frontière Gabonaise.
+      Le 24 Octobre 1997 Denis Sassou Nguesso s\'autoproclame président de la république et promulgue un acte fondamental qui aménage une transition flexible.
+
+  </string>
+
+    <string name="lissouba_exile">
+        Après un court séjour à Libreville et au Burkina-Faso, Pascal Lissouba s\'installe à Londre. Durant plusieurs années il revendique le statut de président constitutionnel de la république.
+En septembre 1999, il est condamné par contumace pour crime de guerre, en décembre 2001 il est poursuivie pour avoir bradé le pétrol congolais.
+
+En septembre 2004, il s\'installe à paris aucune poursuite judiciaire ne sera lancée contre le professeur. Le 11 Décembre 2009 à l\'initiative de Sassou Nguesso, le parlement prononce son amnistie.
+D\'un point de vue historique, le président Lissouba avait posé les bases d\'un développement réel du Congo.
+
+    </string>
+
+    <string name="sassou_naissance_etude">
+        Denis Sassou Nguesso est né le 23 novembre 1943 à Edou, village aux environs d\'Oyo, dernier enfant d\'une
+    fratrie dont le père est Julien Nguesso et la mère Émilienne Mouebara. Il est marié à Antoinette Tchibota.
+    Il est élève à l\'école primaire d\'Edou, puis d\'Owando, alors appelé Fort Rousset. De 1956 à 1960, il est élève au collège normal de Dolisie (Mbounda) pour devenir instituteur.
+    Après l\'obtention de son brevet, il passe avec succès un concours de sélection d\'élèves officiers de réserve.
+
+    </string>
+
+    <string name="sassou_naissance_etude_two">
+        En 1961, il suit la préparation militaire supérieure
+à Bouar en Centrafrique, avant la formation de l\'École interarmes des officiers de réserve de Cherchell en Algérie.
+Rentré au Congo en 1962, il est reversé dans le cadre des officiers d\'active avec le grade de sous lieutenant. L\'année suivante, il intègre l\'École
+d\'application de l\'infanterie de Saint-Maixent-l\'École. Il en sort avec le grade de lieutenant et devient parachutiste.
+
+    </string>
+
+    <string name="sassou_naissance_etude_three">
+        Il est l\'un des premiers officiers du groupement aéroporté, premier bataillon parachutiste de l\'armée congolaise, créé en 1965 sous
+le commandement du capitaine Marien Ngouabi. De 1968 à 1975, il commande successivement le groupement aéroporté, l\'armée de terre et la
+zone militaire de Brazzaville (ZAB), puis dirige la Sécurité d\'État (services de renseignement du Congo). Il devient capitaine, puis commandant
+(il deviendra par la suite colonel en 1978 puis général d\'armée en 1989).
+
+    </string>
+
+    <string name="sassou_ascention_politique">
+        À partir du milieu des années 1960, Sassou Nguesso est dans la mouvance des officiers progressistes conduite par Marien Ngouabi.
+    En aout 1968 après la libération de Marien Ngouabi par les parachutiste;  Massamba-Débat, affaibli, est contraint d\'accepter une recomposition politique. Le 16 août, un
+    Conseil national de la révolution (CNR) est créé et investi de l\'essentiel des pouvoirs. Il est dirigé par Ngouabi et Sassou Nguesso en est l\'un des trente-neuf membres.
+
+    </string>
+
+    <string name="sassou_ascention_politique_two">
+        Le 31 décembre 1969, il fait partie des membres fondateurs du Parti congolais du travail (PCT), nouveau parti unique d\'idéologie marxiste-léniniste, au pouvoir sous le
+nouveau régime de la République populaire du Congo. Il devient membre du bureau politique après le congrès extraordinaire du PCT.
+La session extraordinaire du comité central du PCT qui se tient du 5 au 12 décembre 1975 met en évidence de fortes contradictions internes au sein du parti unique.
+Plusieurs décisions importantes sont prises dont la création d\'un état major spécial révolutionnaire (EMSR).
+
+    </string>
+
+
+    <string name="sassou_ascention_politique_three">
+            Le 28 décembre sur délégation du Conseil d\'État, exécutif de la République qui réunit l\'EMSR et d\'autres corps constitués, il est
+nommé ministre de la Défense et de la Sécurité par décret présidentiel. Le 18 mars 1977, alors que Marien Ngouabi vient de mourir chez lui, victime d\'une fusillade
+Sassou-Nguesso, en sa qualité de ministre de la Défense dépêche un avion à Pointe-Noire pour ramener Jean-Pierre Thystère-Tchicaya et Jean-Pierre Ngombé, qui s\'y trouvent en séjour.
+
+    </string>
+
+    <string name="sassou_ascention_politique_four">
+          Au cours de la réunion de crise qui se tient dans la soirée au ministère de la Défense, il convainc les 3 autres membres de l\'EMSR de la nécessité d\'instituer un Comité militaire
+du parti, doté des pouvoirs exécutifs de la République, en remplacement de l\'EMSR, vu la gravité de la situation. Le 2 avril 1977, Sassou-Nguesso prononce l\'oraison funèbre de Marien Ngouabi.
+En début d\'année 1979, une session extraordinaire du Comité central, est organisée. La réunion s\'ouvre le 5 février 1979. Dès le premier jour, Yhombi-Opango, est contraint d\'accepter la dissolution du CMP et la fin de son mandat à la tête de la République.
+
+    </string>
+
+    <string name="sassou_sommet_etat">
+    Le 8 février 1979, le comité central nomme Sassou-Nguesso président provisoire et convoque le 3e congrès extraordinaire du parti.
+    Celui-ci se tient fin mars 1979 et l\'élit président du comité central du PCT, et de droit président de la République pour cinq ans. Il nomme Louis Sylvain-Goma Premier ministre.
+    Le 14 août, il élargit tous les prisonniers politiques.
+</string>
+
+    <string name="sassou_sommet_etat_two">
+
+Aux débuts de son mandat, il se positionne par rapport à Marien Ngouabi. À la fois dans la continuité, affectant la même simplicité et la même proximité au peuple, et
+en rupture, se posant comme l\'homme des actions concrètes. Les premiers mois sont difficiles, la situation financière de l\'État est préoccupante
+et les caisses de l\'État vides. La deuxième année, l\'envolée des cours du pétrole et la mise en exploitation du champ pétrolier de Likouala au large
+de Pointe-Noire, permettent une certaine détente.
+
+    </string>
+
+    <string name="sassou_sommet_etat_three">
+        L\'année du centenaire, Brazzaville subit un embellissement notable (généralisation de l\'éclairage public,
+construction du pont du centenaire, mise en circulation de bus de transport urbains publics et aménagement d\'espaces communs de qualité).
+Le 3e congrès ordinaire du PCT de 1984 réélit Sassou-Nguesso à la tête du pays pour cinq années. Il nomme Ange Édouard Poungui Premier ministre. En 1985-1986,
+il adopte un programme d\'ajustement structurel (PAS), avec le gel des avancements et des recrutements dans la fonction publique. Certains monopoles d\'État sont supprimés.
+Il obtient un ainsi un rééchelonnement des dettes vis-à-vis de ces institutions.
+
+    </string>
+
+    <string name="sassou_sommet_etat_four">
+        Un accord de rééchelonnement de la dette est également signé avec le Club de Paris. En octobre 1985, il promulgue le Code de la famille, combinaison du Code civil et des différents usages coutumiers.
+En juillet 1989 se tient le 4e congrès ordinaire du PCT. Sassou-Nguesso est reconduit à la tête du parti et de l\'État pour cinq ans.
+Il nomme Alphonse Souchlaty-Poaty, au poste de Premier ministre. En 1990, il négocie des contrats d\'exploration avec les majors américaines afin de relancer
+l\'industrie pétrolière
+
+    </string>
+
+    <string name="sassou_conference_nationale">
+        Les bouleversement politique au début du décennie suscitent un certains activisme dans le
+    sphère politique et une grande attente dans l\'opinion national. Sassou Nguesso s\'efforce à conserver le pouvoir dans un contexte
+    marqué par le mécontentement populaire et l\'agitation sociale, dont témoigne notamment la grève générale du 14-15 septembre 1990.
+
+    </string>
+
+    <string name="sassou_conference_nationale_two">
+        En Décembre 1990 le PCT réunit en congrès extraordinaire mets fin à la primauté du part sur l\'état et abandonne le marxisme léninisme
+comme idéologie. Le 8 janvier 1991 Louis Sylvain-Goma est nommé premier ministre et chargé de former un gouvernement d\'union nationale
+pour assurer la transition vers la démocratie et préparer une conférence des partis afin d\élaboré la nouvelle constitution. Devant le
+refus de la classe politique à souscrire à cette démarche, il s\'incline et annonce la convocation d\'une conférence nationale.
+
+    </string>
+
+    <string name="sassou_conference_nationale_three">
+
+La conférence nationale se tient du 25 février au 10 juin réunissant 1100 personnes, la médiation du président du conseil supérieur de
+la république, Mgr Mkombo permet de maintenir  le gentlemen\'s agreement. EN Mars 1992, la nouvelle constitution est massivement adopté
+par référendum.
+
+    </string>
+
+    <string name="sassou_conference_nationale_four">
+            Les élections locales et législatives de 1992 relèguent le PCT au rang de troisième force politique du pays. A l\'élection présidentielle
+d\'aout 1992, Sassou Nguesso obtient 16,87% des voix, en troisième position derrière Pascal Lissouba et Kolelas. En position d\'arbitre
+pour le second tour il s\'accorde avec Lissouba pour le deuxième tour de la présidentielle et leurs partis signe un accord de gouvernement.
+Pascal Lissouba arrivé en tête du premier tour, l\'emporte largement au deuxième tour. Le 31 août 1992 Sassou-Nguesso effectue la passation de pouvoir avec Pascal Lissouba.
+
+    </string>
+
+    <string name="sassou_traverser_desert">
+        Dès le début l\'UPADS et le PCT n\'arrivent pas à appliquer leurs accord de gouvernement. Les divergences surgissent
+    dès la publication du gouvernement. Le PCT qui ne reçoit que trois postes ministérielle au lieux de sept  dans l\'équipe de Stéphane Bongo Nouarra s\'estime
+    floué. LE 30 septembre 1992 il (PCT) signe un accord avec l\'URD pour la création d\'une nouvelle coalition majoritaire à l\'assemblé nationale.
+
+    </string>
+
+    <string name="sassou_traverser_desert_two">
+        L\'opposition dépose une motion de censure contre le gouvernement Bongo Nouarra, qui est renversé le 31 octobre. Deux semaines plus tard Lissouba dissout
+l\'assemblée nationale et demande à l\'équipe Bongo Nouarra de géré les affaires courantes jusqu\'au prochaine élection législatives anticipées.
+le troubles qui s\'en suivent aboutisse à la création d\'un gouvernement d\'union nationale dirigé par Claude Antoine da Costa.
+
+    </string>
+
+    <string name="sassou_traverser_desert_three">
+        Ces élections législatives anticipées aboutissent à un conflit armé entre les deux camps l\'opposition contestant les résultats. De juin 1993 à janvier 1994 le pays
+est plongé dans un conflit dans un climat de guerre civile. Quelques mois plus tard, Sassou Nguesso se retire à Oyo. En 1995, il s\'exile en France ou il réside dans sa villa de
+du Vésinet. Le 26 juin 1997, il revient au Congo. A Brazzaville comme à Pointe Noire il est acceullie avec ferveur par les foules immenses. Il s\'attele à la préparation
+de la campagne présidentielle et entreprend une tournée à travers le pays. L\'escale à owando donne lieu à une épisode tragique, qui se termine par la mort d\'un militaire, le
+climat est tendu dans le pays.
+
+    </string>
+
+    <string name="sassou_traverser_desert_four">
+        Aux premières heures du 5 juin 1997 un détachement militaire armé encercle la résidence privée de Sassou Nguesso dans le quartier de Mpila, celui-ci réplique s\'estimant ménacé,
+ce fut le début de la guerre. Le 15 octobre 1997 l\'arrivé des renforts aux cotés de Sassou Nguesso a fait pencher la balance en sa faveur. Lissouba et ses proches quite le pays.
+
+    </string>
+
+    <string name="sassou_retour_aux_affaire">
+        Le 25 octobre 1997, Sassou-Nguesso se proclame président de la République et promulgue un acte fondamental qui aménage une transition de durée flexible.
+    Dans une capitale ravagée par quatre mois d\'un conflit violent, les problèmes à régler sont multiples, le gouvernement reconstruit la capitale progressivement.
+    À partir du milieu de l\'année 1998, il doit faire face à une montée de la violence dans la région du Pool. Après plusieurs centaines de morts, c\'est au prix de
+    négociations avec les chefs de guerre que le gouvernement parviendra à normaliser la situation dans cette zone.
+
+    </string>
+
+         <string name="sassou_retour_aux_affaire_two">
+            Au début des années 2000, l\'industrie pétrolière congolaise retrouve un second souffle avec la mise en production de quelques gisements.
+Par ailleurs, les contrats de partage de production, en vigueur depuis 1995 accordent à l\'État une plus grande part dans la répartition de la rente pétrolière.
+En 2002, Sassou-Nguesso fait adopter par référendum une nouvelle constitution. Elle garantit les libertés fondamentales.
+L\'élection présidentielle se tient en mars 2002, Denis Sassou-Nguesso doit affronter, André Milongo.
+
+         </string>
+
+         <string name="sassou_retour_aux_affaire_three">
+                Sassou-Nguesso est élu au premier tour. Son mandat s\'ouvre sous le slogan de la « Nouvelle espérance ». De grands chantiers sont entamés à
+travers le pays, sous la conduite de la délégation aux grands travaux. Une municipalisation accélérée des principales localités du pays est lancée.
+Elle est censée moderniser les villes du Congo. En 2006, Sassou-Nguesso assure pour un an la présidence de l\'Union africaine.
+
+         </string>
+
+         <string name="sassou_retour_aux_affaire_four">
+                    En 2007, l\'âge de la retraite est porté de 55 à 60 ans et le salaire minimum est rehaussé de 35 000 à 40 000 FCFA La portée sociale de ces
+mesures est cependant limitée. En dépit des slogans, le Congo recule en termes d\'indice de développement humain. L\'appauvrissement des populations, débutée
+à la fin des années 1980, continue de s\'accentuer.
+
+         </string>
+
+        <string name="sassou_second_mandat">
+            En juillet 2009 avec le soutien de Ganao, Bernard Kolelas,Yhombi Opango etc.. il se présente à nouveau à l\'élection
+    présidentielle. De tous les candidats il est le seul à faire réellement campagne le scrutin se tient le 12 juillet. Il est élu dès le premier tours, le 15 septembre
+    il forme un nouveau gouvernement.
+
+        </string>
+
+    <string name="sassou_second_mandat_two">
+        En 2015, il organise une série de consultations des personnalités politiques afin d\'examiné une possibilité de modifié la constitution qui est vigueur dans le pays
+    depuis 2002. La démarche est critiquée par une partie de l\'opposition, la majorité assure de son coté souhaiter renforcer les institutions du pays.
+
+    </string>
+
+    <string name="sassou_second_mandat_three">
+            Le 25 octobre 2015, la nouvelle constitution est adoptée par référendum. Elle est rentré en vigueur le 6 novembre 2015. Le 20 Mars il est réélu
+   dès le premier tour de l\'élection présidentielle avec 60,07% des voix, le score validé par la cour constitutionnelle le 4 avril. Ses adversaires
+   Guy Brice Parfait Kolélas et le général Jean Marie Mokoko avaient contesté les résultats partiels publié la veille par la CNEI.
+
+    </string>
+
+    <string name="royaume_kongo_organisation">
+        Toute la partie nord-est de l\'actuel Angola était des territoire du royaume Kongo dont la frontière s\'étendaient sur tout le long
+du littoral de l\'océan Atlantique regroupant ainsi la république du congo, le Gabon mais aussi l\'extrémité occidentale de la république démocratique du Congo.
+
+    </string>
+
+    <string name="royaume_kongo_organisation_two">
+        Cette partie de l\'actuelle Angola fut détachée de l\'autorité du roi Kongo par un groupe d\'aventuriers portugais chassés de Mbanza Kongo (capitale du royaume kongo) à cause de leurs activité de commerce
+que n\'approuvait plus le peuple Kongo. En se refugiant dans cette partie du royaume Kongo, les aventuriers portugais firent assassiner Dongo, le gouverneur nommé par le Roi, avant de procéder à la sécession.
+Quelques années plus tard un des fils du gouverneur Dongo dénommé Ngola fit organiser une contre attaque contre les portugais qui se refugièrent dans les terres de Sao Tomé. Ainsi Ngola était devenu le chef de cette
+partie du royaume kongo de qui vient l\'appellation originale de ce pays Ngola que les portugais appelais Angola. Dans l\'actuelle république du Congo, en dehors de la partie nord tous le reste du pays est un territoire du royaume Kongo.
+
+    </string>
+
+    <string name="royaume_kongo_organisation_three">
+        Dans la partie ouest de l\'actuelle République Démocratique du Congo, pays qui tire son nom de la substitution du K par C (Kongo = Congo), le royaume Kongo s\'étendait du littoral de l\'océan atlantique
+jusqu\'a la rivière Kwango, soit toute la province du Bas-Congo et une partie de a province du Bandundu jusqu\'aux rives du fleuve Kwango. L\'actuelle ville de Kinshasa était un territoire du royaume kongo
+qui s\'appelait Pumbu dont les chefs de terre étaient les clans: Lukeni, Lukunga, Teke et les Humbu. Tous les peuples de l\'actuel térritoire de Kwango dans la province de Bandundu, les Yakas, les Lonzo, les Mbata, les Suku ect..
+sont des Bacongo. L\'empire Yaka fondé vers le XVIIe siècle était une fabrication des portugais qui voulaient éloigner les guerriers Yaka du royaume Kongo afin de les affaiblir militairement.
+
+    </string>
+
+
+    <string name="royaume_kongo_organisation_four">
+            Au Gabon il faut intégrer à cette estimation de l\'étendue de l\'ancien royaume Kongo, tous les territoires frontaliers avec la république du Congo et ceux du littorale de l\'ocean atlantique.
+Car le pouvoir Kongo avait pour ambition le contrôle du littorale de l\'océan Atlantique pour l\'exploitation du sel marin et des coquillages "Nkodia" qui était sa monnaie.
+Le royaume Kongo était le plus organisé  de l\'afrique subsaharienne, car organisé géographiquement en entités administratives, dirigées par des chefs de clans et de terres validées par un pouvoir central basé à Mbanza Kongo
+la capitale du royaume. C\'était un ensemble d`\'entités fédérées qui se soumettaient à l\'autorité d\'un pouvoir central. Selon les estimation, le royaume Kongo atteindrait une superficie dépassant les 2 500 00 km2.
+
+    </string>
+
+    <string name="royaume_kongo_mythe">
+        L\'ancêtre primordiale (Nkanka Ya Kisina) des Bakongo serait une dame dénommée Nzinga la fille de Nkuwu et épouse de Nimi. La société traditionnelle Kongo étant matriarcale, à l\'instar de tant de
+    sociétés africaines anciennes, on conçoit que son aïeul primitif fut nécessairement une femme.
+
+    </string>
+
+    <string name="royaume_kongo_mythe_two">
+        Nzinga aurait eu trois enfants, deux garçons jumeaux et une fille, respectivement N\'vita Nimi, Mpanzu a Nimi et Lukeni Lwa Nimi. Les frères et autres collatéraux de Nzinga à Nkuwu ont reçu la fonction de maitre des terres; c\'est à dire
+qu\'ils se sont spécialisé dans la manipulation des énergies telluriques, notamment en vue d\'exécuter les opérations rituelles présidant aux implantations coloniales successives dans le bassin du fleuve Nzadi. Vit\'a Nimi était l\'ainé des enfants
+Nzinga, on l\'appelle également Ma-samba ou encore Nsaku. Ses déscendants sont les Ki-Nsaku. A eux sont dévolues les fonctions de médiation aussi bien spirituelle que politique. D\'ailleurs Samba signifies palabre, argumenter en lingala.
+
+    </string>
+
+
+    <string name="royaume_kongo_mythe_three">
+            D\'ou Ma-Samba veut dire maitre de palabre. Mpanzu a Nimi était réputé intrepide, habile de ses mains et excellent agriculteur. C\était également un Ndamb\'a Ngolo c\'est à dire un excellent mineur. Lukeni se distinguait surtout par sa beauté
+et sa fécondité qui lui donna une nombreuse progéniture, dont elle aurait excellé dans l\'éducation. D\'ou son surnom Nungoyo\'a Ntende c\'est à dire la belle aux milles chances; Elle hérita  aussi du nom de sa mère. Le royaume Kongo se développa après
+plusieurs migrations bantous du VIIe au XVe siècle dans une zone peuplée de pygmées Baka.
+
+    </string>
+
+    <string name="royaume_kongo_mythe_four">
+        Le pouvoir du roi kongo, le Manikongo, et de nature spirituelle, cette autorité lui étant assurée par des pouvoirs surnaturels et divinatoire lui donnant accès aux ancêtres.
+Le royaume Kongo aurait été fondé au XIIIe siècle. Le royaume Kongo était un état très développé avec un large réseau commercial.
+
+    </string>
+
+    <string name="royaume_etat">
+        Le royaume kongo était constitué de secteur reparti entités administratives qui sont respectivement Ka-Mbamba(secteur 1), Ki-Mpemba(secteur 2) et Ka-Mbangu(secteur 3). Quand au noyau appelé Zita-Dya-Nza (nœud du monde), il avait un statut
+    administratif particulier en tant que province capitale appelée également Mbanza kongo. Littéralement, Mbanza (ou Nganda) signifie chef lieu ou capitale. Kambamba, Kimpemba, Kabangu et Mbanza-Kongo formaient une fédération politique nommée Kongo-Dyna-Nza, ou encore Kongo-Dia-Ntotila.
+    Chacune de ces quatre entités comportait sept ki-Nkosi (subdivisions).
+
+    </string>
+
+    <string name="royaume_etat_two">
+            Chaque Kinkosi comportait plusieurs ki-Mbuku, qui se composaient chacun de nombreux ki-Kayi, lesquels étaient constitués à leur tour de plusieurs ki-Fuku. La capitale de Kongo-Dya-Mpangala se nomme Mbânza Mbamba, celle
+de Kongo-Dya-Mulaza est Mbânza Mpemba et celle de Kongo-Dya-Mpenza s\'appelle Mbânza Mbangu. Ce modèle d\’aménagement territorial va se multiplier au fil des siècles, de manière rhizomique, jusqu\’à reproduire quasiment à l\’identique sa toponymie dans les autres régions ultérieurement unifiées au foyer initial. Cette originalité et cette complexité structurale de l\'organisation du
+territoire du Kongo surprendront l\'intelligence de nombreux étrangers européens. Le pays avait une superficie d\'environ 2 500 000 km2 au XVIe siècle, soit la moitié de la superficie de toute l\'Europe occidentale. En principe, la succession à la tête du Kongo est matrilinéaire.
+En sorte qu\'originellement, seuls les descendants de Lukeni Lwa Nzinga, la fille de l\'ancêtre-mère primordiale, pouvaient prétendre au poste de Mwene.
+
+    </string>
+
+    <string name="royaume_etat_three">
+        En principe, la succession à la tête du Kongo est matrilinéaire. En sorte qu\'originellement, seuls les descendants de Lukeni Lwa
+Nzinga, la fille de l\'ancêtre-mère primordiale, pouvaient prétendre au poste de Mwene. Les descendants de Vit\'a Nimi ayant pour fonction de veiller au respect, entre autres, de cette loi de succession. Le cabinet du Mwene comporte divers fonctionnaires, notamment : Ma N\'Kata, le préposé aux affaires militaires et à la guerre, Né Tuma le préposé aux armes et à la défense du Kongo,
+Mbênza Kongo, le préposé aux affaires de la Justice, Ne Mpûngi chef de la musique du palais, Wavadidi Ntinu, le sculpteur attitré du Mwene.
+
+    </string>
+
+    <string name="royaume_etat_four">
+        Cette configuration hiérarchique est reproduite aux échelons inférieurs de telle sorte que chacune des quatre grandes circonscriptions politiques possède ses préposés à la Défense, Justice, etc.
+Comme dans beaucoup de régions de l\'Afrique centrale ou de l\'Ouest, un calendrier bâti sur la « semaine » de quatre jours était en vigueur ; trois jours ouvrables et un jour pour le marché, Outre celui du marché, il y a un calendrier agricole Kongo qui comporte cinq saisons; Avec la venue du christianisme, le calendrier
+chrétien a pris de plus en plus la place de ce calendrier. Les coquillages Olivancillaria nana appelés nzimbu, étaient utilisés comme monnaie. Leur production venait d\'une pêcherie féminine de l\'île de Luanda dont la maison du Manikongo avait l\'exclusivité.  Les nzimbus étaient calibrés au tamis de façon à constituer des paniers de valeurs, le funda soit mille unités les plus
+petites, le lukufu valant mille fundas, l\'imbonde valant mille lukufus. Le cours du funda était donc de 13,33 francs. Les zimpos ont été peu à peu supplantés par les curies importés du Zanguebar.
+
+    </string>
+
+
+
+    <string name="royaume_kongo_histoire">
+        Au cours de ses voyages le long de la côte africaine dans les années 1480, le navigateur portugais Diogo Cão fut le premier Européen à évoquer un grand empire qui contrôlait le commerce dans la région.  En 1483, il rendit visite à Ntinu Nzinga Nkuwu dans sa capitale, Mbanza-Kongo.
+    Le royaume Kongo était alors à son apogée grâce à la production d\’ignames et d\’échange de houes et d\’armes contre de l\’ivoire avec les populations de l\’intérieur de l\’Angola. Le premier contact fut pacifique et certains dignitaires furent emmenés (ou capturés par surprise selon les sources) au Portugal. Grâce à l\'aide des
+    arquebusiers portugais, Nzinga Nkuwu put vaincre les Tékés et s\'emparer de leurs gisements de cuivre.
+
+    </string>
+
+    <string name="royaume_kongo_histoire_two">
+        Des missionnaires catholiques arrivèrent dans la région en 1490, l\'année suivante, Nzinga Nkuwu fut baptisé et prit le nom de Ndo Nzuawu (prononciation kongo de Dom João), imité par la famille royale et les proches du pouvoir.  À sa mort, les anciens désignèrent un de ses enfants non chrétien, Mpanzu, pour lui succéder mais son fils aîné,
+Mvemba-a-Nzinga,  Alfonso ou Ndo Funsu vers 1491, le renversa en 1509 et devint « par la Grâce de Dieu » le septième roi. Il reçut à cette occasion du roi du Portugal des armes et une bannière d\'argent à la croix de saint André de gueules alésée. Voyant dans le christianisme un moyen de moderniser son pays, il encouragea les baptêmes et l\'éducation
+et accueillit des jésuites qui ouvrirent une école pour 600 élèves. L\'alliance et la présence portugaise se renforcèrent jusqu\'à devenir domination.
+
+    </string>
+
+    <string name="royaume_kongo_histoire_three">
+
+        Avec la découverte et l\'exploitation du Brésil, les Portugais se tournent vers la très lucrative traite des Noirs. La traite affaiblit le royaume. En 1526, le Manikongo écrivit au roi Jean III de Portugal, lui demandant de mettre fin à cette pratique. Sa requête reçut une réponse cynique et les relations entre les deux pays s\'envenimèrent. À sa mort, en
+    1548, Ndo Nzuawu était déconsidéré. La traite négrière et les conflits qu\'elle entraîna dépeuplèrent toute la région. En 1568, le Kongo fut envahi par les Yakas et sa capitale Mbanza-Kongo détruite. En 1665, les colons portugais d\'Angola montèrent une expédition contre le royaume pour s\'emparer de ses mines. Les Portugais furent victorieux, le Manikongo
+    décapité et sa tête enterrée cependant, le royaume Kongo continua d\'exister comme un État fantoche durant deux siècles. À la conférence de Berlin en 1884-1885, les puissances européennes se partagèrent l\'Afrique. Le royaume Kongo a connu des formes originales d\'art sacré, se traduisant notamment par la production de crucifix en laiton.
+
+    </string>
+
+    <string name="royaume_loango_denomination_frontiere">
+        L\’explication poétique par ngo, qui signifie léopard en kugni, est affaiblie par l\'emploi en vili du terme tchikumbu. Issu d\'une autre racine bantoue, pour désigner ce fauve et par le surnom de la capitale du royaume Bansa Lovangiri. Les bribes de mythes recueillies au XXe siècle évoquent une ancêtre
+    commune aux divers peuples de la région dénommée Ngu Na. C\'est le royaume qui a donné son nom à sa capitale Celle-ci s\'est développée autour de Boari. sur une colline dominant l\'actuelle ville de Loango. Elle s\'est étendue au XVIe siècle autour du palais installé à quelques kilomètres au sud en retrait de Banda, l\'actuelle Pointe Noire, au lieu-dit
+    Loandjili. En 1773 le siège du Maloango est revenu à Boari même, au lieu-dit Diosso. L\'ensemble, dans un rayon de dix kilomètres, le nom de Bansa Loango , qui signifie « capitale du Loango ». Les Occidentaux l\'ont appelé tantôt Bansa tantôt Loango. Il en reste autour de l\'actuelle Loango quelques bourgs isolés que l\'exode rural et la concentration
+    urbaine dans Pointe Noire finiront de faire disparaître parmi des résidences.
+
+    </string>
+
+    <string name="royaume_loango_denomination_frontiere_two">
+            La tradition recueillie au XXe siècle, rapporte l\'origine des clans fondateurs du Loango à la ville de Lândana. Dans une région encore aujourd\'hui habitée par les Yombé. Que le Loango ait été créé à la fin du XVe siècle par réaction à l\'offensive du Manikongo Jean armé par les marins de l\'amiral du Portugal Coatanlem contre les Woyo et les Tékés de la
+rive nord du Zaïre, qu\'il l\'ait été comme une colonie du Kongo accaparant à partir de 1485 les mines de cuivre qui s\'y trouvent, ou que, suivant cette tradition orale, il préexistât à Lândana, sous ce nom de Loango ou un autre, l\'érection du royaume de Ngoyo, dans la moitié méridionale de l\'actuelle enclave de Cabinda, fait reculer sur le Chiloango la
+frontière sud, initialement fixée sur le Zaïre. À une date impossible à préciser, l\'érection à Lândana même d\'un royaume du Cacongo fait reculer de nouveau cette frontière sur la Loémé.
+
+    </string>
+
+    <string name="royaume_loango_denomination_frontiere_three">
+            La frontière orientale avec l\'ex province kongolaise du Pombo et le royaume des Anziques du Makoko, située assez précisément à la distance du confluent de la Sangha un siècle plus tôt, se fixe au XVIIIe siècle au-delà de Mindouli à une distance correspondant approximativement à la rivière Djoué. La frontière nord sur le Rio Fernan Vaz et la lagune d\'Iguéla
+au Gabon confine alors avec l\'Ogoué avant de reculer, à la suite de la crise dynastique de 1766, jusqu\'à la Nyanga et séparer ainsi les Loumbous en deux groupes. Parfois métissés avec des pygmées, Babenzi, Babinga ou Baka, premiers habitants du pays, les loangais sont Yombé, Lumbu, Vungu, Pounou, Kugni, Vili. À cette dernière ethnie appartiennent les familles régnantes.
+Elle habite la région centrale autour de l\'ancienne capitale et de Pointe Noire.
+
+    </string>
+
+    <string name="royaume_loango_denomination_frontiere_four">
+    Les Yombé sont à leur est et leur sud jusqu\'à l\'embouchure du Zaïre et peuplent également l\'enclave de Cabinda. Les Lumbu sont à l\'opposé au nord ouest, sur un territoire qui s\'étend sur la côte sud ouest du Gabon voisin jusqu\'à la lagune Ndougou. Les Kugni habitent au nord est en
+    amont sur le Kouilou. Les Pounou sont encore plus au nord jusqu\'au haut Ngounié en territoire gabonais. À côté du français, du vili et autres langues sœurs bantoues du kikongo, les Fiote parlent une variété septentrionale du kituba, créole parlé dans l\’Empire Kongo. Décliné en de nombreux autres dialectes, il s\'est répandu au Loango le long du chemin de fer Congo-Océan. Autrefois langue véhiculaire, il sert de nouvelle langue vernaculaire dans la partie de la République
+    du Congo que recouvre l\'ancien territoire du Loango, le lingala jouant le même rôle dans l\'ancien territoire du royaume voisin de l\'Anzico.
+
+
+    </string>
+
+    <string name="royaume_loango_monarchie">
+        Le royaume de Loango est une monarchie héréditaire matrilinéaire, c\'est-à-dire qu\'au souverain défunt succède non pas son propre fils mais celui de sa sœur par ordre de primogéniture, c\'est-à-dire normalement la sœur aînée. Ce beau neveu est choisi dans deux familles régnantes, les Konde ou les NKhata. En apparence différent de celui
+    du Kongo voisin, où tout bien utilisé par un particulier n\'appartient en propre qu\'au despote, ce droit de la propriété privée n\'est qu\'une expression plus équilibrée du même régime clanique. Au Louango, la domination d\'un clan sur les autres est simplement moins affirmée. Jusqu\'au XVIIIe siècle, la matrilinéarité de la monarchie est assurée par un concubinage à outrance, de
+    sorte que les enfants du souverain se comptent en tel nombre, environ cinq cents, qu\'aucun ne puisse faire valoir sa prééminence et que la naissance de chacun paraisse douteuse. Ainsi le palais du roi est à cette époque entouré de quelque deux cent cinquante cases, soit la moitié de l\'étendue de la capitale, pour autant de concubines. Étroitement surveillées, elles étaient en cas
+    d\'adultère précipitées avec leur amant du sommet d\'une falaise.
+
+    </string>
+
+    <string name="royaume_loango_monarchie_two">
+        Les fils du roi doivent acquérir une fortune par eux-mêmes, quitte à faire preuve d\'une opposition violente à l\'ordre en place. Les filles du roi constituent un collège de prostituées. Dans un pays où les mœurs sont les plus libres et où cette manière de se constituer une dot passe pour un privilège des plus honorables. Inversement, la polygamie y assimile le mariage à l\'esclavage
+de la femme, à laquelle revient non seulement les travaux ménagers mais aussi tous les travaux des champs. Seules les femmes de haut lignage y échappent, jouissant inversement de toute licence. La caractère héréditaire de la monarchie est tempéré par une élection restreinte. L\'impétrant doit en effet suivre une initiation mystique très approfondie au terme de laquelle seulement il pourra être proclamé « Mâ Loango » et la succession entérinée par le Conseil d\’État, Ma Mboma Si Lwangu. En outre, le gouvernement et les intérims sont exercés, autre rémanence du matriarcat, par
+la reine, Macoundé, qui est elle aussi élue par le Conseil d\’État, ce parmi les princesses royales les plus âgées. Elle dispose du pouvoir de promulgation et d\'un droit de grâce. Elle peut également, non sans risquer de rompre l\'équilibre entre la légitimité du lignage et la légalité représentée par le Conseil d\’État et de causer ainsi des troubles, démettre le souverain.
+
+    </string>
+
+    <string name="royaume_loango_monarchie_three">
+        De 1766 à 1773, les notables de la ville de Loango conduisent une révolution qui abolit le régime despotique de la dynastie précédente et instaure une sorte de régime constitutionnel complexe. Ce dernier ne fonctionne que par le financement des marchands d\'esclaves, auxquels le monarque vend charges et offices par l\'intermédiaire d\'un secrétaire ministériel, qui joue le rôle de
+fermier traitant du monarque et prend alors un rôle de premier plan, le Mafouque. Après avoir été abolie de fait, en 1885, la royauté du Loango, à l\'instar des aristocraties déchues d\'Europe, perdure symboliquement à travers ses héritiers et des rites familiaux entretenus par des offices coutumiers.
+
+    </string>
+
+    <string name="royaume_loango_histoire_et_fondation">
+        Le royaume du Loango est le fruit d\'une lutte de plusieurs années entre un prince Yombe originaire du Cacongo, c\'est-à-dire du sud de la région, et un rival de Tchilongo, village situé au nord du Kouilou, pour l\'hégémonie sur les chefferies voisines, Wansi, Piri, Louangiri, Louangomongo, Mayombe.
+    La victoire du premier, rapportée à une époque de cannibalisme rémanent et une civilisation de la chasse par une tradition orale recueillie au XVIe siècle, indique ainsi que le Cacongo faisait primitivement partie de l\'ensemble qui reçut le nom de Loango. Cette fondation, parallèle et indépendante du Kongo, date vraisemblablement de la fin du XIVe siècle ou du début du XVe siècle.
+    À la mort de son père, en juin 1506, le prince Alphonse, soutenu par sa mère, revendique la coutume patrilinéaire de ses nouveaux alliés catholiques et fait appel à la puissance de feu décisive de ceux-ci pour ouvrir une guerre de succession contre son cousin germain Mpanzou, héritier légitime et défenseur de la tradition matrilinéaire, qui est vaincu en 1509 par quelques cavaliers lors de la bataille de Saint Sauveur.
+    La mort d\'Alphonse dans une atmosphère de complot en 1543 laisse l\'empire profondément divisé entre les partisans de ses beaux neveux François et Jacques, fils de sa sœur aînée et successeurs légitimes, et ceux de son fils Pierre, apôtre de la patrilinéarité soutenu par les Portugais.
+
+    </string>
+
+    <string name="royaume_loango_histoire_et_fondation_two">
+    Les dissensions et les cabales se manifestent dans tous les offices de toutes les fractions de l\'état, vraisemblablement dans le Loango aussi. En 1556, le Ngola, gouverneur de la province méridionale du Ndongo, est le premier,à faire sécession. Au sud est, le Matamba et au nord ouest, le Loango restent fidèles au Manikongo Jacques et leurs reine et roi respectifs obligent
+    l\'empereur en recevant chacun une mission envoyée en 1561 à Kindonga et à Boari, leurs capitales, et même en acceptant, du moins dans les formes, de se convertir. La mort dans l\'année même de l\'héritier de Jacques, Alphonse II, au cours d\'une insurrection suscitée par le frère de celui-ci, Bernard, celle de ce dernier cinq ans plus tard puis du Manikongo suivant, Henri, quelques
+    mois après, au cours d\'invasions conduites par les Anziques affranchis et alliés aux Iagas insurgés, achèvent de rendre irréversible la dislocation de l\'empire, que le long et difficile règne d\'Alvare ne pourra pas freiner. C\'est durant ces années que le prince Njembe, relève la couronne du Loango et fonde à Loandjili.
+    À l\'extrémité opposé de l\'empire, le Matamba ne prendra formellement son indépendance qu\'à la génération suivante, en 1618, quand sa reine Anne montera sur le trône du Ndongo laissé vacant par le suicide de son frère.
+
+    </string>
+
+    <string name="royaume_loango_recontre_avec_navigateur">
+        Les courants des fleuves côtiers et les alizés sont défavorables à l\'abordage des côtes poissonneuses mais accidentées et barrées du Loango. Repoussant les explorateurs venant de Sao Tomé plus au sud vers le royaume du Manicongo et le royaume du Ngola, cette géographie maritime, à quoi s\'ajoutent l\'« air malsain » et un
+    terrain presque entièrement recouvert par la forêt humide, laisse la région dans un isolement relatif qui perdurera, même après que les Portugais, descendant de Saint Sauveur par l\'embouchure du Zaïre, auront fondé un comptoir portuaire à Cabinda. Les échanges ne se font qu\'a bord jusqu\'à ce que le commissaire  Pierre van den Broeck  fonde le 8 février 1610 le premier comptoir. L\'objectif des
+    Hollandais est de supplanter dans le golfe de Guinée les Portugais, dont les plantations insulaires sont saccagées par la flotte de l\'amiral Pierre Verdock. Le Loango est vu comme un enjeu dans une guerre commerciale qui n\'est pas la sienne.
+
+    </string>
+
+    <string name="royaume_loango_recontre_avec_navigateur_two">
+            Quand, du 22 avril au 21 mai 1612, Broeck visite de nouveau ce Loango, il trouve en effet un despote, se montre moins favorable aux Portugais. L\'explorateur y chasse l\'hippopotame donne la première description du gorille, perçu par les autochtones aussi bien que par lui comme un humain sauvage qu\'il convient d\'exterminer et tire du royaume, moyennant une forme de bakchich versé au roi, cent
+vingt tonnes d\'ivoire, soit mil à deux mils défenses. Cinquante ans plus tard, l\'ivoire est épuisé. Malgré ou grâce à ses richesses, le Loango reste méconnu jusqu\'à la fin du XVIIIe siècle. Le comptoir hollandais sera fermé par les autorités louanguaises quelques années après sa fondation, avant de rouvrir pour les navires de toutes nationalités et prospérer au siècle suivant.
+L\'arrivée des navires européens modifie profondément la société. Elle tourne l\'économie vers l\'exportation, en particulier la traite négrière qui entraine des déplacements de populations, et enrichit une élite de commerçants Vili. La ville de Loango devient avec Cabinda un des cinq ports au sud de l\'équateur par lesquels se font au milieu du XVIIIe siècle un tiers des déportations d\'esclaves
+Le commerce triangulaire a aussi des conséquences politiques. Il provoque une colonisation interne des zones forestières quasiment vierges, des conflits frontaliers suivis de déplacements de populations, comme entre les Akélés d\'une part et les Échira et les Nkomi d\'autre part, et une plus grande intégration des territoires pourvoyeurs d\'esclaves, cuivre, raphia et ivoire.
+
+    </string>
+
+    <string name="royaume_loango_recontre_avec_navigateur_three">
+        En 1766, meurt le roi Nombo, neuvième et dernier souverain du clan Buvadji. Suit un interrègne de sept ans durant lequel le gouvernement est exercé  au nom des vingt-sept clans NKongo, qui revendiquent une lignée commune issue d\'un héros mythique originaire du Kongo, Bunzi. Le clan Konde en la personne de Moe Poaty finit par s\'imposer en 1773 au prix d\'une monarchie élective .
+Le pouvoir royal, réduit à des actes religieux, en sus d\'un privilège fiscal sur la traite négrière et administratif sur les nominations, se trouve dès lors limité par de nombreux interdits et la réalité du pouvoir est transférée aux ministres et aux gouverneurs de sept provinces choisis par les clans. En 1839, quatre cents esclaves Vili capturés au Loango sont libérés par le lieutenant
+de vaisseau Édouard Bouët-Willaumez après l\'arraisonnement de l\'Elizia qui les emportait pour un plus grand voyage. Ils fondent Libreville sur le lieu même de leur libération.
+
+    </string>
+
+    <string name="royaume_loango_recontre_avec_navigateur_four">
+            Le 23 mars 1883, le lieutenant de vaisseau Robert Cordier signe un traité de paix avec le Maloango par lequel le Loango cesse d\'être indépendant. Deux ans plus tard, le 25 février 1885, alors que parallèlement le Cacongo et le Ngoyo signent le Traité de Simulambuco qui les met sous la protection du Portugal, la Conférence de Berlin donne le Loango à la France. La mort du roi Ma N\'Sangou cette
+même année, la destitution immédiate de son successeur Moe Pratt, accusé du meurtre de sa fille, et la crise de succession qui s\'ensuit et ne se résoudra que cinq ans plus tard, donnent les arguments au ministre des Colonies Charles-Eugène Galiber pour signer en 1886 le décret confiant l\'administration du Loango au lieutenant-gouverneur du Congo français, intégré quatorze ans plus tard à Afrique-Équatoriale française
+
+    </string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/greenblack">
+
+    <LinearLayout
+        android:id="@+id/progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="80dp"
+        android:layout_gravity="center"
+        android:background="#fff">
+
+        <TextView
+            android:id="@+id/questions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_margin="10dp"
+            android:textSize="15sp"
+            android:textStyle="bold"/>
+
+
+        <Button
+            android:id="@+id/first_choice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/oval"
+            android:layout_margin="7dp"
+            android:text="Présidents"/>
+
+        <Button
+            android:id="@+id/second_choice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/oval"
+            android:layout_margin="7dp"
+            android:text="Dates historique"/>
+
+        <Button
+            android:id="@+id/third_choice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/oval"
+            android:layout_margin="7dp"
+            android:text="Royaumes"/>
+
+
+        <Button
+            android:id="@+id/quitter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/radius_right"
+            android:layout_margin="7dp"
+            android:text="Quitter"/>
+    </LinearLayout>
+
+</LinearLayout>

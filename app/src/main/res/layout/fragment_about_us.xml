@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/bwala"
+                android:layout_margin="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bwala"
+                android:layout_gravity="center"
+                android:layout_marginLeft="5dp"
+                android:textSize="20sp"/>
+
+
+
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#43a047"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Version 1.0.1"
+            android:textStyle="bold"
+            android:layout_margin="10dp"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/titre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Toutes les informations relatives aux présidents viennent du www.Wikipedia.com; Cependant les informations concernant les royaumes et les dates historique viennent de : www.culturecongo.com et www.historiensducongo.unblog.fr"
+            android:layout_margin="10dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Si vous ètes propriétaire d'une ou plusieurs images et souhaiter que cela soit éffacée(s), écrivez-nous à nkeoualionel@gmail.com nous l'éffacerons"
+            android:layout_margin="10dp"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Designer par joasmy safoula et developper par lionel nkeoua"
+            android:layout_margin="10dp"
+            android:textStyle="bold"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+    </LinearLayout>
+</ScrollView>

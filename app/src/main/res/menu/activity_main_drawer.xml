@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_presidents"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="Les présidents" />
+
+        <item
+            android:id="@+id/nav_dates"
+            android:icon="@drawable/ic_cake_black_24dp"
+            android:title="Date historique" />
+        <item
+            android:id="@+id/nav_lieux"
+            android:icon="@drawable/ic_notifications_none_black_24dp"
+            android:title="Les royaumes" />
+
+    </group>
+
+    <item android:title="Bonus">
+        <menu>
+            <item
+                android:id="@+id/nav_quiz"
+                android:icon="@drawable/ic_group_work_black_24dp"
+                android:title="Quiz" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_ring_volume_black_24dp"
+                android:title="Numéro d'urgence" />
+
+
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_visibility_black_24dp"
+                android:title="A propos" />
+        </menu>
+    </item>
+
+</menu>

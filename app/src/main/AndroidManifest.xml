@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lionelnkeoua.com.bwala">
+
+    <!-- my permission -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bwala"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".view.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.DatesActivity"
+            android:label="Dates Historique"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.fragment.youlou.youlou.YoulouActivity"
+            android:label="Abbe Fulbert Youlou"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.fragment.youlou.debat.MassambaActivity"
+            android:label="Massamba Debat"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.PresidentsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.fragment.youlou.ngouabi.NgouabiActivity"
+            android:label="Marien Ngouabi"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.fragment.youlou.opangault.OpangaultActivity"
+            android:label="Jacque Opangault"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.fragment.youlou.lissouba.LissoubaActivity"
+            android:label="Pascal Lissouba"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.fragment.youlou.sassou.SassouActivity"
+            android:label="Sassou Nguesso"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".view.NumerosUrgenceActivity"
+            android:label="Numeros d&apos;Urgence"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".view.RoyaumesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".royaumes.kongo.KongoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".royaumes.teke.TekeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".royaumes.loango.LoangoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".view.fragment.youlou.QuizActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".view.fragment.youlou.PresidentQuestion"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".view.fragment.youlou.DatesHistoriqueQuestion"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".view.fragment.youlou.RoyaumesQuestion"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".view.fragment.youlou.PresidentScoreActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".view.fragment.youlou.DateScoreActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".view.fragment.youlou.RoyaumeScoreActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
